@@ -15,6 +15,9 @@ Sin embargo, a diferencia de la mayoría de matrimonios, los miembros en línea 
 Pero no tiene que ser así. Con su usual ingenio y buen humor, Jono ha escrito una guía con todo lo que usted necesita para mantener saludables y productivos sus grupos en línea. Con la adecuada planeación, un poquito de dirección y el ocasional destierro, su comunidad puede evitar ese aparentemente inevitable descenso al miedo y odio. Necesitamos buenos administradores de comunidades porque necesitamos comunidades saludables en línea. Yo he iniciado mi buena parte de comunidades en línea, y he matado unas cuantas con descuido también. Estoy muy agradecido con Jono por darme las herramientas para hacerlo bien de ahora en adelante. Yo se que todos lo estamos.
 
 -- Leo Laporte
+
 Locutor y Fundador de red TWiT
+
 Petaluma, California
+
 30 de junio de 2009
