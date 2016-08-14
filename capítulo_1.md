@@ -3,7 +3,8 @@
 ## El arte de la comunidad
 
 > «Las cosas magníficas no son hechas por impulso, sino por una serie de pequeñas cosas reunidas.»
-- Vincent Van Gogh
+
+-- Vincent Van Gogh
 
 **Cuando mi reloj marcó las 6 p.m. supe que estaba en problemas.** Ante todo iba tarde, y no elegantemente tarde. De hecho, a esa hora iba tan poco elegantemente tarde como es posible. Pelo largo, camisa de Iron Maiden, pantalones anchos de camuflaje y una impresionante chaqueta de cuero. Dejé la casa de mis padres y me metí en mi pequeña camioneta, adornada con unos parlates demasiado grandes y un ambientador con forma de árbol. Era hora de rodar.
 
