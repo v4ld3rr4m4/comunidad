@@ -6,7 +6,7 @@ La comunidad de DIY Drones ha creado incontables productos, pero el más exitoso
 
 Esto es exactamente lo que pasó a finales del 2010. Recibimos noticia de que copias chinas de nuestro diseño de ArduPilot Mega estaban a la venta en Taobao, eBay y otros mercados en línea. Y en efecto lo eran - clones bien producidos y totalmente funcionales. No solo eso, también nuestro manual de instrucciones en inglés había sido traducido al chino, junto con partes del software.
 
-Nuestros miembros de la comunidad reportaron esta "evidente" piratería y preguntaron que qué ibamos a hacer al respecto.
+Nuestros miembros de la comunidad reportaron esta "evidente" piratería y preguntaron que qué íbamos a hacer al respecto.
 
 Nada, dije yo:
 
@@ -28,7 +28,7 @@ Nada, dije yo:
 
 Poco tiempo después de que escribí esto, un miembro llamado «Hazy» respondió en los comentarios que él había trabajado con el equipo que había hecho las placas, y que era el que estaba haciendo la traducción. Lo felicité por la velocidad con la que fue hecho, y luego le pregunté si él consideraría transferir la traducción para que fuera parte de nuestro manual oficial, el cual está en un wiki en Google Code, donde se encuentra nuestro repositorio. Él accedió a hacerlo, y le di permisos para editar el wiki y que lo configurara para una traducción paralela en chino que los usuarios pudieran seleccionar.
 
-En ese momento estabamos usando el sistema de control de versiones Subversion (ahora estamos usando Git), y Google Code tenía una implementación relativamente básica. Las páginas del wiki eran tan solo archivos en el mismo repositorio de nuestro código fuente de nuestros pilotos automáticos, y yo no había investigado las opciones de permisos muy bien. Para permitir que las personas editaran el wiki, yo simplemente les di acceso general para hacer «commits» (la capacidad para crear y editar archivos) en el repositorio entero.
+En ese momento estábamos usando el sistema de control de versiones Subversion (ahora estamos usando Git), y Google Code tenía una implementación relativamente básica. Las páginas del wiki eran tan solo archivos en el mismo repositorio de nuestro código fuente de nuestros pilotos automáticos, y yo no había investigado las opciones de permisos muy bien. Para permitir que las personas editaran el wiki, yo simplemente les di acceso general para hacer «commits» (la capacidad para crear y editar archivos) en el repositorio entero.
 
 Cuando le daba ese tipo de acceso a los miembros de la comunidad, usualmente les pedía que no se metieran con el código por error (la membresía en los equipos de desarrollo de código era más exclusiva, porque el peligro de desordenar las cosas era más alto), pero en el caso de Hazy lo olvidé.
 
@@ -48,15 +48,15 @@ Me contó su historia:
 
 > Cuando era niño me fascinaban todos los tipos de modelos, y quería tener un avión a control remoto. Varios años después fui capaz de pagar un helicóptero a control remoto cuando me gradué de la universidad. También obtuve camiones y aviones a control remoto. A veces soy ridiculizado como ingenuo por jugar con «juguetes», pero estoy feliz porque es mi sueño de la niñez. Encontré ArduPilot por casualidad cuando estaba navegando en la red, y me atrajeron sus poderosas funciones. Algunos de mis amigos también estaban interesados, pero se sintieron un poco incómodos porque los documentos estaban en inglés. Así que traté de traducirlos al chino, esperando reducir la dificultad de jugar con ArduPilot para los fanáticos chinos. Gracias por el grandioso trabajo en DIYDrones, y espero que ayude a más personas a volver sus sueños realidad.
 
-Lo que pasó aquí es mágico. Cuando por primera vez tuvimos noticias de las placas clonadas, algunos en nuestra comunidad saltaron inicialmente a la conclusión de que era otro evidente caso de piratería china y querían saber cuándo ibamos a demandar. Pero al recordarles que no era una versión «pirata», sino un «diseño derivado» totalmente permitido e incluso promovido por nuestra licencia de código abierto, el curso cambió.
+Lo que pasó aquí es mágico. Cuando por primera vez tuvimos noticias de las placas clonadas, algunos en nuestra comunidad saltaron inicialmente a la conclusión de que era otro evidente caso de piratería china y querían saber cuándo íbamos a demandar. Pero al recordarles que no era una versión «pirata», sino un «diseño derivado» totalmente permitido e incluso promovido por nuestra licencia de código abierto, el curso cambió.
 
-Al no satanizar al equipo chino, y en cambio tratarlos como parte de la comunidad, ellos actuaron de esa forma también. Hazy dió un paso al frente, y en lugar de solo explotar nuestro trabjo, contribuyó con también.
+Al no satanizar al equipo chino, y en cambio tratarlos como parte de la comunidad, ellos actuaron de esa forma también. Hazy dio un paso al frente, y en lugar de solo explotar nuestro trabajo, contribuyó con también.
 
-Entonces ahor los «piratas» trabajan para nosotros. En lugar de solo usar nuestra tecnología, ellos están trabajando con nosotros para mejorar la tecnología para todos. «Hazy» realizó sus dueños y al hacerlo nos ayudó a realizar los nuestros también. Ese es el poder de la comunidad.
+Entonces ahora los «piratas» trabajan para nosotros. En lugar de solo usar nuestra tecnología, ellos están trabajando con nosotros para mejorar la tecnología para todos. «Hazy» realizó sus dueños y al hacerlo nos ayudó a realizar los nuestros también. Ese es el poder de la comunidad.
 
 Todos tenemos diferentes historias de comunidad, y esta es sólo un ejemplo de cómo grandes comunidades pueden tocar a cada uno de nosotros. Sin embargo, construir una comunidad es un trabajo complejo. Involucra la cuidadosa planeación y reflexión., pero también la libertad de empoderar a los miembros de su comunidad para lograr cosas que usted jamás habría soñado.
 
-No puedo pensar de una mejor guía que *El arte de la comunidad* y su intrépido guía turístico, Jono Bacon, para ayudarle a navegar en su jornada. En la primera edición del libro, Jono creó una fuerte base de conocimiento para construir y empoderar comunidades. La segunda edición no sólo refina y extiende este cuerpo de trabajo, sino que también comparte muchas otras historias de cómo las comunidades exitosas han sido creadas y las elecciones que se hicieron para lograrlo. Esta combinación de la experiencia y perspicacia de Jono, así como estas historias delmundo real de otros líderes de comunidades brinda un fuerte camino para tener éxito en sus propias comunidades.
+No puedo pensar de una mejor guía que *El arte de la comunidad* y su intrépido guía turístico, Jono Bacon, para ayudarle a navegar en su jornada. En la primera edición del libro, Jono creó una fuerte base de conocimiento para construir y empoderar comunidades. La segunda edición no sólo refina y extiende este cuerpo de trabajo, sino que también comparte muchas otras historias de cómo las comunidades exitosas han sido creadas y las elecciones que se hicieron para lograrlo. Esta combinación de la experiencia y perspicacia de Jono, así como estas historias del mundo real de otros líderes de comunidades brinda un fuerte camino para tener éxito en sus propias comunidades.
 
 -- Chris Anderson
 

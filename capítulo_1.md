@@ -6,7 +6,7 @@
 
 -- Vincent Van Gogh
 
-**Cuando mi reloj marcó las 6 p.m. supe que estaba en problemas.** Ante todo iba tarde, y no elegantemente tarde. De hecho, a esa hora iba tan poco elegantemente tarde como es posible. Pelo largo, camisa de Iron Maiden, pantalones anchos de camuflaje y una impresionante chaqueta de cuero. Dejé la casa de mis padres y me metí en mi pequeña camioneta, adornada con unos parlates demasiado grandes y un ambientador con forma de árbol. Era hora de rodar.
+**Cuando mi reloj marcó las 6 p.m. supe que estaba en problemas.** Ante todo iba tarde, y no elegantemente tarde. De hecho, a esa hora iba tan poco elegantemente tarde como es posible. Pelo largo, camisa de Iron Maiden, pantalones anchos de camuflaje y una impresionante chaqueta de cuero. Dejé la casa de mis padres y me metí en mi pequeña camioneta, adornada con unos parlantes demasiado grandes y un ambientador con forma de árbol. Era hora de rodar.
 
 «Rodar» fue optimista. En lugar de eso, me quedé parachoques contra parachoques en el tránsito junto a la mitad del sur de Inglaterra, todos unidos por la curiosidad acerca de si esa película con Michael Douglas se podría hacer realidad en este frío día Inglés.
 
@@ -22,7 +22,7 @@ Una hora antes ese pingüino había parecido muy incitante y amistoso. Era un s�
 
 Pero cuando estaba ahí de pie, con el timbre ya tocado, nada de eso estaba ni cerca de mis pensamientos conscientes. En lugar de eso, el cerebro de Jonathan E. J. Bacon estaba preparándose para una incomodidad extrema e incomparable mientras caminaba hacia un lugar en el que quería y no quería estar al mismo tiempo.
 
-Después la puerta se abrió y un buen tipo llamado Neil me dió la bienvenida a su hogar.
+Después la puerta se abrió y un buen tipo llamado Neil me dio la bienvenida a su hogar.
 
 La comunidad es una bestia divertida. La mayoría de personas - del tipo que ve concursos de talentos en la televisión y de vez en cuando moja el pan en aceite en un restaurante caro - no entiende a las personas como Neil. ¿Por qué diablos este tipo decide abrir su hogar, gratis, a una colección de extraños que conoció en Internet? ¿Por qué querría pasar una tarde tomando té y haciendo bromas sobre algo llamado «Emacs»? ¿Y por qué pagaría de su propio bolsillo por recursos en línea como volantes, lista de correo y un sitio web, iniciaría un servicio de préstamo de libros para el grupo, e incluso compraría el té y las galletas?
 
@@ -36,7 +36,7 @@ En los últimos 10 a 15 años hemos visto la Cultura Libre en tecnología, arte 
 
 También hay Neils afuera del mundo de la Cultura Libre. Están en grupos de iglesias, ayudando a pobres y desafortunados, en la vigilancia del vecindario y en campañas de comida a domicilio, alcanzando a los que les rodean, y en instalaciones de arte público, grupos políticos y ferias de artes. Estas personas ofrecen, ejecutan y comparten sus opiniones y creatividad en todo, desde aeróbicos y tejido hasta yoga.
 
-Lo que me intrigó cuando entré por primera vez en la sala de Neil fue el concepto del *ethos de ser dirigido por la colaboración*, aunque en ese momento no tenía idea de qué significaban esas palabras. Lo que me enseñó esa experiencia, y lo que esa tarde insipró en mi, fue una emoción acerca de lo que es posible cuando se une un grupo de personas que comparten un ethos común y un compromiso por promoverlo.
+Lo que me intrigó cuando entré por primera vez en la sala de Neil fue el concepto del *ethos de ser dirigido por la colaboración*, aunque en ese momento no tenía idea de qué significaban esas palabras. Lo que me enseñó esa experiencia, y lo que esa tarde inspiró en mi, fue una emoción acerca de lo que es posible cuando se une un grupo de personas que comparten un ethos común y un compromiso por promoverlo.
 
 En mi mundo, ese ethos hasta ahora ha sido la Cultura Libre, el Software Libre, los derechos digitales y romper la brecha digital; pero puede ser tan crítico como crear la paz mundial o tan fantástico como compartir en la Internet fotos de gatitos tocando guitarras. La importancia de la comunidad no está en la cruzada, sino en cómo unir personas para marchar hacia adelante juntos, lado a lado.
 
