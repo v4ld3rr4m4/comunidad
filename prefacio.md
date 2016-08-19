@@ -18,7 +18,7 @@ Así escribí la primera edición y quedé orgulloso de los resultados. El libro
 
 ## La segunda edición
 
-Cuando publiqué la primera edición en 2009 estaba aterrorizado de la forma en la que sería recibido. La primera edición presentaba un libro sobre un tema que pocos otros libros han cubierto, fue un reto estructurarlo en una forma lógica (los temas de administración de comunidades se entremezclan como una tela de araña), y no estaba seguro de que hubiera dado en el blanco con el contenido. Con un tic nervioso lo vi ir a la imprenta.
+Cuando publiqué la primera edición en 2009 estaba aterrorizado de la forma en la que sería recibida. La primera edición presentaba un libro sobre un tema que pocos otros libros han cubierto, fue un reto estructurarlo en una forma lógica (los temas de administración de comunidades se entremezclan como una tela de araña), y no estaba seguro de que hubiera dado en el blanco con el contenido. Con un tic nervioso lo vi ir a la imprenta.
 
 Afortunadamente al libro le fue bien. Obtuvo críticas positivas y mis preocupaciones iniciales se aliviaron. Conforme el libro empezó a propagarse yo estaba encantado de ver la retroalimentación de los lectores, opiniones e ideas que me compartían a través de diversas redes sociales y por correo electrónico. Continué empujando y promoviendo el libro, y particularmente que el contenido pudiera ser compartido de forma libre, y fue maravilloso ver que diversas comunidades y sus líderes disfrutaran el libro y encontraran el contenido potenciador.
 
