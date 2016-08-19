@@ -104,7 +104,7 @@ Cada capítulo de este libro es aplicable a cada uno de estos roles. Mientras la
 
 ## El camino a seguir
 
-A lo largo de este libro vamos a ahondar en un amplio rango de temas que enfrentan aquellos de nosotros que queremos construir e inspirar grandes comunidades. Página tras página vamos a tejer una intrincada red de conceptos, habilidades y enfoques involucrados en energizar una comunidad vibrante y en ayudar a los miembros de esa comunidad a que se energicen solos.
+A lo largo de este libro vamos a ahondar en un amplio rango de temas que enfrentamos aquellos de nosotros que queremos construir e inspirar grandes comunidades. Página tras página vamos a tejer una intrincada red de conceptos, habilidades y enfoques involucrados en energizar una comunidad vibrante y en ayudar a los miembros de esa comunidad a que se energicen solos.
 
 Este libro se divide en 15 capítulos, con cada uno construyendo sobre los que estaban antes. Vamos a dar un rápido vistazo al camino a seguir:
 
