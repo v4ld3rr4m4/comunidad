@@ -62,7 +62,7 @@ Mucho de esta visión continuará creciendo en el sitio web del libro en http://
 
 **El libro de casos de comunidades**
 
-> Siempre estamos viendo y aprendiendo, e iterando en nuestros diseños conforme la comunidad evoluciona, de forma que podamos construir experiencias mejores y más disfrutables, y todo lo que hemos aprendido será aplicado a nuestros futuros proyectos.
+> «Siempre estamos viendo y aprendiendo, e iterando en nuestros diseños conforme la comunidad evoluciona, de forma que podamos construir experiencias mejores y más disfrutables, y todo lo que hemos aprendido será aplicado a nuestros futuros proyectos.»
 
 -- James Spaffold, sobre Aprendizaje
 
