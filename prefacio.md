@@ -184,7 +184,7 @@ Este libro fue licenciado con mucho cuidado para asegurar que cualquier persona 
 
 El libro está licenciado bajo la licencia *Creative Commons Atribución-NoComercial-CompartirIgual*.
 
-Esta licencia le permite libremente descargar el libro y compartirlo con sus amigos. La licencia también le permite libremente copiar el contenido del libro y compartirlo con otros o en otros documentos (no comerciales) bajo la condición de que le de los créditos del trabajo a *El arte de la comunidad* (O'Reilly), por Jono Bacon. No tiene permiso de redistribuir el libro de forma comercial; si quiere discutir redistribución comercial y otras oportunidades comerciales, por favor contacte a O'Reilly.
+Esta licencia le permite libremente descargar el libro y compartirlo con sus amigos. La licencia también le permite libremente copiar el contenido del libro y compartirlo con otros o en otros documentos (no comerciales) bajo la condición de que le dé los créditos del trabajo a *El arte de la comunidad* (O'Reilly), por Jono Bacon. No tiene permiso de redistribuir el libro de forma comercial; si quiere discutir redistribución comercial y otras oportunidades comerciales, por favor contacte a O'Reilly.
 
 ## Únase a nuestra comunidad
 
