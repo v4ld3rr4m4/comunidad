@@ -83,3 +83,101 @@ En este punto de nuestro viaje es claro que la *pertenencia* es nuestro objetivo
 Sin embargo, desde el inicio, pertenencia es un concepto abstracto. Todos la entendemos en apariencia, pero muchos de nosotros tenemos problemas para describirla en palabras. Yo identifico la pertenencia de forma pragmática: como una consecuencia positiva de la economía social. De la misma forma en que juzgamos una economía financiera fuerte por su prosperidad, riqueza y calidad de nivel de vida, la pertenencia es el premio de una economía social fuerte.
 
 Una economía es un conjunto de conceptos y procesos compartidos que crecen y cambian en un esfuerzo por generar alguna forma de capital. En la economía financiera, los participantes ponen bienes y servicios en el mercado para generar capital financiero. Los procesos y técnicas que usan incluyen medición de ventas, mercadeo estratégico, permitir la facilidad de acceso, etcétera. Una economía social es lo mismo, pero nosotros somos el producto, y el capital es respeto y confianza. Los procesos y técnicas aquí son diferentes - medios de comunicación abiertos, facilidad de acceso a herramientas, etc - pero los principios básicos son los mismos.
+
+***
+
+**El código abierto en la economía**
+
+Stephen Walli, un prominente comentador sobre el código abierto en las empresas y editor de revisión de *El arte de la comunidad*, hizo unas conexiones interesantes entre los conceptos subyacentes en una economía financiera y cómo aplican a la economía social del código abierto. Él presentó estas ideas en su artículo titulado «Desarrolladores de software libre y de código abierto trabajando de gratis (Economía 101)»:
+
+> «La gente valora sus conjuntos de habilidades de forma diferente en diferentes contextos, pero los valoran. Uso a los escritores como un ejemplo para explicar esto a quienes no son desarrolladores: un escritor técnico o de comunicación en mercadotecnia puede pasar 8 horas al día en su trabajo pagado, y luego pasa sus tardes y fines de semana enseñando inglés en una universidad local, trabajando en un boletín informativo para su iglesia local/sinagoga/vecindario, ayudando a niños en un proyecto escolar, y escribiendo un soneto para su pareja (o la próxima gran novela o guión). En todos los casos están usando sus habilidades de escritura; sólo las están valorando de forma diferente en diferentes contextos.»
+
+Hay otra forma de mirarlo. No todos los mercados involucran el intercambio de dinero por bienes y servicios. Una joya de libro de economía (*Reinventando el bazar* por John McMillan, 2002, p. 135) señala que los mercados bien diseñados, sin importar el tipo de mercado, tienen algunas cosas en común:
+
+ * La información fluye sin problemas.
+ 
+ * Se puede confiar que la gente cumple sus promesas.
+ 
+ * Se fomenta la competencia.
+ 
+ * Los derechos de propiedad están protegidos, pero no sobre protegidos.
+ 
+ * Se disminuyen los efectos secundarios dañinos a terceros.
+ 
+Veamos a las comunidades bien dirigidas de proyectos de software libre y código abierto en términos de estas dinámicas de mercado:
+
+ * La información fluye sin problemas - transparencia de comunidad, procesos, código, políticas, errores, discusiones.
+ 
+ * Se puede confiar que la gente cumple sus promesas - la licencia del proyecto es un contrato social. Su cultura de gobernancia es bien entendida y apoyada.
+ 
+ * Se fomenta la competencia - qué arreglos y funcionalidades son aceptados, y cuáles no.
+ 
+ * Los derechos de propiedad están protegidos, pero no sobre protegidos - la administración de derechos de autor del código y el licenciamiento son manejados apropiadamente en proyectos bien dirigidos.
+ 
+ * Se disminuyen los efectos secundarios dañinos a terceros - el punto del libro aquí es que CUANDO un daño real puede afectar a terceros, hay formas en que los gobiernos pueden involucrarse para disminuir tales efectos, ya sea definiendo o haciendo cumplir derechos de propiedad, impuestos o incentivos, o políticas o regulaciones. La licencia de la comunidad se viene a la mente.
+
+Los proyectos individuales se comportan como mercados desde una perspectiva, y el código es la moneda, el medio de intercambio. Al igual que en todos los intercambios económicos, el contribuyente ofrece algo que valora menos (un fragmento de código solucionando una necesidad particular) a cambio de algo que valora más (un paquete de software funcional en su totalidad). Nadie está trabajando de gratis en un sentido económico.
+
+***
+
+El capital social es conocido por todos nosotros, pero lo conocemos a través de muchas diferentes palabras: *kudos*, *respeto*, *buena voluntad*, *confianza*, *celebridad*, *influencia*, *supremacía*, *grandeza* y *apalancamiento*, por nombras unas cuantas.
+
+El primer uso conocido del término *capital social* (al que se le hace referencia en *Jugando bolos solo: El colapso y el renacimiento de la comunidad americana* [Simon & Schuster]) fue por L. J. Hanifan, un supervisor escolar en la zona rural de Virginia. Hanifan describió capital social como «aquellas substancias tangibles [que] cuentan para la mayoría en las vidas diarias de las personas: es decir: buena voluntad, compañerismo, simpatía y relaciones sociales entre los individuos y familias que conforman una unidad social...».
+
+Capital social es la familia colectiva de interacciones positivas entre dos o más personas. Cuando usted afecta de forma positiva a alguien (esto puede incluir ser generoso, ayudar a alguien, compadecerse por un problema, u otra cosa), esto tiene efectos de onda en la comunidad de la que usted forma parte. Además de crear buena voluntad hacia usted (aumentando su propio capital social), fortalece a la otra persona y a la comunidad en formas que por último benefician su capital social, también. Hanifan identifica la oportunidad detrás del capital social:
+
+> «El individuo es indefenso socialmente si es abandonado a sí mismo... Si él entra en contacto con su vecino, y ellos con otros vecinos, habrá una acumulación de capital social, que puede inmediatamente satisfacer sus necesidades sociales y que puede soportar una potencialidad social suficiente para el mejoramiento sustancial de las condiciones de vida de toda la comunidad. La comunidad como un todo se beneficiará de la cooperación de todas sus partes, mientras el individuo encontrará en sus asociaciones las ventajas de la ayuda, simpatía, y el compañerismo de sus vecinos.»
+
+La carnita en la descripción de Hanifan es la oportunidad de que el capital social pueda «soportar una potencialidad social suficiente para el mejoramiento sustancial de las condiciones de vida de toda la comunidad». En esencia, si un miembro de su comunidad tiene un acercamiento positivo hacia otro miembro, su capital social crece, lo que tiene un impacto positivo en esa persona y en la comunidad como un todo. Todo esto suena mucho como karma, y lo es.
+
+Por supuesto, el capital, ya sea social o monetario, no es el final del juego. La gente no hace dinero sólo por el propósito de tener dinero. Ellos hacen dinero porque les permite hacer otras cosas.
+
+Este es un aspecto importante para entender dónde empieza y termina la economía. La mayoría de la gente involucrada en la economía financiera no son meramente unos raros egoístas de los números que sólo quiere una gran olla de dinero; la mayoría de personas que trabajan con capital social no son meramente animales superficiales que tiran besos al aire y agitan su mano, que simplemente quieren mencionar nombres importantes y ser nombrados en el interés de aceptación social. Por supuesto, los egoístas y los obsesivos sociales existen, pero es importante no usarlos como la base del juicio. La economía no es la que está defectuosa; son esas personas las que están defectuosas.
+
+Un punto final: para que una economía funcione, cada participante necesita *creer en la economía*. La creencia es un componente crítico de la forma en que cualquier grupo de personas o animales funciona. Esta puede ser la creencia en Dios, creencia en valores, o creencia en un nuevo futuro. Cualquiera que sea la creencia fundamental, la economía y la comunidad pueden tener éxito sólo si todos tienen fe en esta.
+
+Entonces hagamos un rápido resumen:
+
+ * Un sentimiento de pertenencia es lo que mantiene a las personas en comunidades. La pertenencia es el objetivo de la construcción de comunidades. El sello de calidad de una comunidad fuerte es cuando sus miembros siente que pertenecen.
+ 
+ * La pertenencia es la medida de una economía social fuerte. La moneda de esta economía no es el dinero que encuentra en su billetera o entre los cojines de su sillón, sino el *capital social*.
+ 
+ * Para que una economía y comunidad sean exitosas, los participantes tienen que creer en ella. Si nadie cree en la comunidad que los une, esta falla.
+ 
+ * Como cualquier otra economía, una economía social es la colección de procesos que describen cómo algo funciona y se comparte entre aquellos que participan.
+ 
+ * Estos procesos, y la generación de capital social, que a su vez genera pertenencia, necesitan ser comunicados efectivamente.
+ 
+Hasta ahora hemos hablado de forma extensiva sobre nuestros objetivos (pertenencia), el medio de intercambio (capital social), y qué se encuentra en el corazón de una economía (procesos). Ahora necesitamos enfocarnos en el componente final que une cada uno de esos conceptos: comunicación.
+
+En muchas formas, una economía es como un río fluyendo: nunca para, el flujo es crítico para su éxito. Las economías nunca se mantienen estáticas. Cada día cambian, se ajustan a los estímulos del mundo que las afecta. En el corazón de cómo este movimiento funciona está la *comunicación*.
+
+### Las bases de la comunicación
+
+Peter Bloch, un consultor de aprendizaje, hace una importante observación fundamental  sobre la comunicación en la economía social: «La comunidad es fundamentalmente un sistema humano interdependiente que toma forma por la conversación que mantiene con sigo misma.» Cuando oí esta cita por primera vez, me di cuenta que el mecanismo detrás de la comunicación en una comunidad son las *historias*.
+
+Las historias son el medio con el cual mantenemos el río fluyendo. Son los vehículos en los que no solo expresamos ideas («Un día estaba tomando el subterráneo hacia el trabajo y vi a esta señora ahí leyendo el periódico, y me hizo pensar xyz»), sino también cómo aprendemos de experiencias pasadas («Hubo una vez en que vi a David hacer xyz y supe que tenía que ajustar cómo manejo esas situaciones en el futuro»). Además, cuando los personajes en las historias son personas en una comunidad, las historias son auto referenciales y le dan a la comunidad un sentido de reportaje. Las comunidades se sienten realmente como comunidades cuando hay un servicio de noticias, ya sea formalizado o a través de la cerca.
+
+Sin embargo no todas las historias están cortadas con la misma tijera. Las comunidades tienden a intercambiar dos tipos de historias muy diferentes: *cuentos* y *fábulas*.
+
+Los cuentos son contados por su valor de entretenimiento y para compartir experiencias. Son unidades individuales de experiencia que se comparten entre personas, y su valor primario está en comunicar una experiencia dada de una persona, y agregarla al repertorio de historias y experiencias de quien las oye.
+
+Las fábulas son diferentes. Fábulas son historias designadas para ilustrar un mensaje subyacente. La gran mayoría de nosotros estamos expuestos a fábulas desde niños, y estas historias se pasan de generación en generación, cada una exaltando un mensaje moral para la juventud de ese momento.
+
+Tomemos un paso atrás hacia nuestra historia anterior sobre mrben uniéndose a la comunidad de LugRadio. Esta historia fue un cuento que compartió una experiencia que encerraba muchos de los conceptos que hemos explorado.
+
+Cuando mrben se unió a la comunidad de LugRadio, él se identificó con el ethos del programa. Luego empezó a engancharse con las historias - primero oyéndolas en el mismo programa, luego obteniéndolas de la comunidad, y finalmente compartiéndolas él mismo. Conforme mrben contribuía más y más, su capital social empezó a crecer - la comunidad le tenía un gran respeto a él y a sus opiniones. Él, por su parte, creía en la comunidad y en sus propias habilidades. Esta objetividad en su narración y su conducta en general contribuyeron a su capital social. Conforme continuó siendo parte de la comunidad, su sentido de pertenencia se desarrolló. En este punto, mrben era LugRadio, su comunidad y su ethos, vivitos y coleando.
+
+El resultado de este proceso es un miembro de la comunidad con un fuerte sentido de lealtad. Algunos de los mejores ejemplos de pertenencia y compromiso con un ethos ocurren cuando la comunidad es amenazada. Un ejemplo interesante de esto fue cuando publicamos el episodio 3 de la temporada 5 del programa, y recibimos una declaración bastante enojada de un oyente que estaba claramente agitado por el nivel de pericia en el programa y la actitud positiva en general hacia Ubuntu (que todos los presentadores expresaban):
+
+> «Hoy en día me mantengo mayoritariamente con Dave Yates en lottalinuxlinks, quien es genuinamente un obsesivo de Linux, Chess Griffin en linuxreality quien tal vez haga cosas para noobs pero que es genuinamente experto en Linux, y los tipos de el linuxlinktechshow porque trabajan con Linux y saben de qué putas están hablando.»
+
+Mrben, quien había pasado unos años en la comunidad para ese momento, respondió a la crítica usando historias para probar su punto:
+
+> «Yo creo que usted encontrará que todos los presentadores de LugRadio trabajan con Linux todos los días. Que ellos sepan o no de qué putas están hablando es, por su puesto, un asunto de opinión. Pero la adición de Chris y Adam al equipo, ambos administradores de sistemas Linux (si bien recuerdo), es una inyección de conocimiento en ese lado de las cosas. Jono tiene una larga historia trabajando con código abierto y Linux dentro de la comunidad (¡bingo!) incluso si su conocimiento técnico no está al mismo nivel. Aq es un extremista del software libre, pero también es experto en desarrollo web y usabilidad. Personalmente, yo aún creo que es una buena mezcla.
+> El asunto de Ubuntu es un problema, lo admito. Pero entonces, LugRadio sigue reflejando mi experiencia en GULs - la mayoría de las personas están hablando sobre Ubuntu. Se ha vuelto la distribución de escritorio más popular, y el punto de comparación que la mayoría de personas usa contra las otras distros. Pero, en mi humilde opinión, los programas recientes no han mostrado un sesgo exagerado hacia Ubuntu. Vea este programa - tiene una entrevista con Quim Gil, la cual es sobre Maemo, no Ubuntu, el dedo de Dios, que es una simple tontería, el problema de seguridad y los vendedores de software, que aplica en todos los ámbitos, y empaquetamiento, que fue bastante específico de Ubuntu, pero que podría fácilmente relacionarse con otras distros basadas en Debian, y, como Chris dijo, él habría hablado de RPM de haber sido posible.
+> El "sesgo hacia Ubuntu" es más sobre uso personal y experiencia, que un cambio en la dirección del programa. (el cual era desvergonzadamente sesgado hacia Debian antes de que Ubuntu saliera....)»
+
+En su respuesta de tres párrafos, mrben se refirió a 12 puntos y hechos distintivos, citando muchos de material existente en línea. Su respuesta no buscó sólo convencer de su error al escritor original, sino también demostrar a la comunidad que el escritor estaba equivocado y así brindar un sentido de seguridad. Al usar datos objetivos, también habló con la voz de la comunidad, no sólo su propia opinión. La respuesta de mrben estaba dirigida por su creencia en la comunidad, formada por familiaridad con historias y legitimada por un enorme capital social. Sutil, pero inspirador.
+
+A pesar de que la infraestructura de economía social subyacente en la comunidad es irresistible, es importante recordar que es meramente una estructura diseñada para entregar un prospecto mucho más estimulante - *oportunidad*. Y con eso, volvamos atrás en el tiempo....
