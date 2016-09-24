@@ -199,3 +199,29 @@ No era exactamente *Minority Report*.
 Simon, siendo el amable y colaborativo hermano que era, escribió el nombre de usuario y la contraseña en un pedazo de papel, lo pegó en mi pantalla, y en seguida se largó. Al día siguiente se mudó. Fui dejado con un «prompt» de inicio de sesión, algunos nervios y absolutamente ninguna idea de qué hacer. Entonces abrí el libro, puse el álbum de Testament y empecé a leer.
 
 Fue entonces que leí sobre la comunidad de Software Libre: una colección mundial de entusiastas todos conectados por la Internet, compartiendo un ethos de que el software debería ser libre, mientras construyen un reemplazo para el gigante de Microsoft que ha frustrado a tantos. Pieza por pieza, este ejército global brindó alternativas de software, muchas de las cuales eran mejores que sus contra partes comerciales. En ese entonces, Linux estaba en la edad oscura de la computación. Todo era dirigido por la línea de comandos, los dispositivos pocas veces funcionaban, y para hacer cualquier cosa se necesitaba compilar código. Aún así, este concepto de comunidad mundial compartiendo código me fascinó absolutamente. Aquí es cuando olí por primera vez el dulce aroma de la *oportunidad*.
+
+Aunque la realidad del código abierto en 1998 era primitiva, el potencial dentro de la comunidad es lo que  me inspiró a quedarme con ella. Para ser honesto, yo estaba bastante perturbado por la absoluta complejidad de todo. En esos días era locamente complicado poner en marcha un sistema, y las tripas del sistema operativo estaban en exhibición a la vista de todos. (En estos días, como la Uncyclopedia[http://uncyclopedia.wikia.com/] tan elocuentemente lo pone, «Las distribuciones de Linux son tan a prueba de idiotas que usted puede poner los CDs de instalación de cabeza en la unidad de disquete y aun así funcionará» [ligeramente editado para una audiencia familiar].) En aquel entonces, todos sabíamos que la vida con Linux era mucho más dificil que lo necesario, pero el fuerte sentido de oportunidad subyacente ayudó a despertar la imaginación para aguantar la complejidad por un potencial futuro mejor.
+
+Hay una importante conexión aquí en la que *imaginación* y *oportunidad* son amigas cercanas. La imaginación ofrece a la mente una visión de cómo podrían ser las cosas. Si hay un camino viable hacia este futuro, construimos un sentido de oportunidad. Si no hay un camino viable, entramos en el mundo de la fantasía.
+
+Linux, y la posibilidad de que se conviertiera en un sistema operativo prominente, no era de ninguna forma una fantasía. Los rieles ya estaban puestos en el suelo. La comunidad solo necesitaba herramientas disponibles libremente y canales de comunicación para reunir los materiales, construir el tren, y ponerlo en las vías. En el caso de Linux, esto se manifestó en tres áreas principales:
+
+ * *Comunicación abierta*
+
+   * Con una comunidad abierta y visible públicamente, y canales de comunicación accesibles, cualquiera se puede unir a la comunidad y conocer a cientos de miles de otros miembros de la comunidad como ellos.
+
+ * *Licenciamiento del trabajo*
+
+   * Cada contribución a la comunidad de Linux está licenciada de tal forma que beneficia a toda la comunidad. El licenciamiento justo de todas las contribuciones agrega un fuerte sentido de confianza en la seguridad de la comunidad.
+
+ * *Herramientas abiertas*
+
+   * Cualquiera con una conexión a Internet y una computadora puede contribuir. Todas las herramientas de desarrollo y documentación están libres y abiertas al accesso íntegramente. Esto brinda una baja barrera de entrada, y permite a nuevos usuarios jugar con la tecnología.
+
+ Aunque estos elementos fueron esenciales durante el nacimiento de Linux, no son la comunicación abierta, el licenciamiento y las herramientas las que generan *oportunidad*. Estos elementos simplemente hicieron posible construir un sistema operativo de Software Libre de clase mundial. La oportunidad nace en el sentido de *creencia*.
+
+La creencia es una función humana de crítica importancia. Ya sea su creencia en un dios todo creador, en la habilidad de un miembro de la familia para lograr algo por si mismo, en un futuro mejor en su vecindario, o en la confiabilidad de una guía de restaurantes, la creencia es lo que nos da esperanza para el mundo que nos rodea. La creencia también puede hacer seres humanos sorpresivamente resilientes en situaciones intensamente dificiles e incómodas.
+
+Un ejemplo de esto es un incidente que ocurrió hace unos años atrás. Cada año, como parte de LugRadio, organizábamos una reunión cara a cara llamada [LugRadio Live](http://www.lugradio.org/live/), que es un estilo muy diferente de conferencia. Habíamos trabajado duro para deliberadamente hacer la conferencia fundamentalmente un evento comunitario. La igualdad entre vendedores comerciales y la comunidad era un atributo clave, y deliberadamente pusimos un precio de entrada bajo para mantenerla accesible. Además de esto, trabajamos para producir una atmósfera muy informal e inclusiva, inspirada en gran parte por eventos de música. (Muchos se referían a LugRadio Live como una «conferencia de rock».)
+
+LugRadio Live se ha labrado algo de reputación por ser diferente, y cada uno de sus participantes han estado muy entusiasmados por promover la conferencia y a su fórmula. Había un fuerte sentido de creencia en el evento - un evento que era distintivamente orientado y dirigido por la comunidad, abierto a la participación y disponible para todos.
