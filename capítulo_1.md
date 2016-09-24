@@ -95,25 +95,25 @@ Stephen Walli, un prominente comentador sobre el código abierto en las empresas
 Hay otra forma de mirarlo. No todos los mercados involucran el intercambio de dinero por bienes y servicios. Una joya de libro de economía (*Reinventando el bazar* por John McMillan, 2002, p. 135) señala que los mercados bien diseñados, sin importar el tipo de mercado, tienen algunas cosas en común:
 
  * La información fluye sin problemas.
- 
+
  * Se puede confiar que la gente cumple sus promesas.
- 
+
  * Se fomenta la competencia.
- 
+
  * Los derechos de propiedad están protegidos, pero no sobre protegidos.
- 
+
  * Se disminuyen los efectos secundarios dañinos a terceros.
- 
+
 Veamos a las comunidades bien dirigidas de proyectos de software libre y código abierto en términos de estas dinámicas de mercado:
 
  * La información fluye sin problemas - transparencia de comunidad, procesos, código, políticas, errores, discusiones.
- 
+
  * Se puede confiar que la gente cumple sus promesas - la licencia del proyecto es un contrato social. Su cultura de gobernancia es bien entendida y apoyada.
- 
+
  * Se fomenta la competencia - qué arreglos y funcionalidades son aceptados, y cuáles no.
- 
+
  * Los derechos de propiedad están protegidos, pero no sobre protegidos - la administración de derechos de autor del código y el licenciamiento son manejados apropiadamente en proyectos bien dirigidos.
- 
+
  * Se disminuyen los efectos secundarios dañinos a terceros - el punto del libro aquí es que CUANDO un daño real puede afectar a terceros, hay formas en que los gobiernos pueden involucrarse para disminuir tales efectos, ya sea definiendo o haciendo cumplir derechos de propiedad, impuestos o incentivos, o políticas o regulaciones. La licencia de la comunidad se viene a la mente.
 
 Los proyectos individuales se comportan como mercados desde una perspectiva, y el código es la moneda, el medio de intercambio. Al igual que en todos los intercambios económicos, el contribuyente ofrece algo que valora menos (un fragmento de código solucionando una necesidad particular) a cambio de algo que valora más (un paquete de software funcional en su totalidad). Nadie está trabajando de gratis en un sentido económico.
@@ -139,15 +139,15 @@ Un punto final: para que una economía funcione, cada participante necesita *cre
 Entonces hagamos un rápido resumen:
 
  * Un sentimiento de pertenencia es lo que mantiene a las personas en comunidades. La pertenencia es el objetivo de la construcción de comunidades. El sello de calidad de una comunidad fuerte es cuando sus miembros siente que pertenecen.
- 
+
  * La pertenencia es la medida de una economía social fuerte. La moneda de esta economía no es el dinero que encuentra en su billetera o entre los cojines de su sillón, sino el *capital social*.
- 
+
  * Para que una economía y comunidad sean exitosas, los participantes tienen que creer en ella. Si nadie cree en la comunidad que los une, esta falla.
- 
+
  * Como cualquier otra economía, una economía social es la colección de procesos que describen cómo algo funciona y se comparte entre aquellos que participan.
- 
+
  * Estos procesos, y la generación de capital social, que a su vez genera pertenencia, necesitan ser comunicados efectivamente.
- 
+
 Hasta ahora hemos hablado de forma extensiva sobre nuestros objetivos (pertenencia), el medio de intercambio (capital social), y qué se encuentra en el corazón de una economía (procesos). Ahora necesitamos enfocarnos en el componente final que une cada uno de esos conceptos: comunicación.
 
 En muchas formas, una economía es como un río fluyendo: nunca para, el flujo es crítico para su éxito. Las economías nunca se mantienen estáticas. Cada día cambian, se ajustan a los estímulos del mundo que las afecta. En el corazón de cómo este movimiento funciona está la *comunicación*.
@@ -183,3 +183,19 @@ Mrben, quien había pasado unos años en la comunidad para ese momento, respondi
 En su respuesta de tres párrafos, mrben se refirió a 12 puntos y hechos distintivos, citando muchos de material existente en línea. Su respuesta no buscó sólo convencer de su error al escritor original, sino también demostrar a la comunidad que el escritor estaba equivocado y así brindar un sentido de seguridad. Al usar datos objetivos, también habló con la voz de la comunidad, no sólo su propia opinión. La respuesta de mrben estaba dirigida por su creencia en la comunidad, formada por familiaridad con historias y legitimada por un enorme capital social. Sutil, pero inspirador.
 
 A pesar de que la infraestructura de economía social subyacente en la comunidad es irresistible, es importante recordar que es meramente una estructura diseñada para entregar un prospecto mucho más estimulante - *oportunidad*. Y con eso, volvamos atrás en el tiempo....
+
+### Desenvolviendo la oportunidad
+
+Cuando primero aprendí sobre Linux, estaba administrando una pequeña librería en Milton Keynes, en el sur de Inglaterra, y viviendo en el hogar tomando un año sabático antes de empezar la universidad. Cuando Simon, el mayor de mis dos hermanos, se quedó en nuestra casa por unas cuantas semanas a su regreso de los Estados Unidos, pasábamos frecuentemente las tardes hablando sobre computadoras y comedia en vivo.
+
+Una de esas tardes, mientras estaba tirando insultos a mi computadora, Simon expresó su sorpresa de que yo usara un «sistema operativo de Mickey Mouse» Yo me sorprendí también. Hasta donde yo sabía, Windows - Windows 98, además - era todo lo que existía. Simon me contó sobre algo llamado «Linux», que podía obtener de gratis de la parte de atrás de un libro.
+
+Armado con mi 10% de descuento, ansiosamente agarré una copia de *Slackware Linux Unleashed*, y Simon se puso a instalar Slackware 96 en mi computadora de escritorio. Dos semanas después, habiendo usado astucia, sagacidad y un cautín (literalmente), y manteniendo el alineamiento de los planetas, realmente logré que la cosa arrancara. Mientras contemplaba ansiosamente a la pantalla, listo para experimentar la siguiente generación de tecnología de sistemas operativos, fui confrontado con:
+
+  `darkstar login:`
+
+No era exactamente *Minority Report*.
+
+Simon, siendo el amable y colaborativo hermano que era, escribió el nombre de usuario y la contraseña en un pedazo de papel, lo pegó en mi pantalla, y en seguida se largó. Al día siguiente se mudó. Fui dejado con un «prompt» de inicio de sesión, algunos nervios y absolutamente ninguna idea de qué hacer. Entonces abrí el libro, puse el álbum de Testament y empecé a leer.
+
+Fue entonces que leí sobre la comunidad de Software Libre: una colección mundial de entusiastas todos conectados por la Internet, compartiendo un ethos de que el software debería ser libre, mientras construyen un reemplazo para el gigante de Microsoft que ha frustrado a tantos. Pieza por pieza, este ejército global brindó alternativas de software, muchas de las cuales eran mejores que sus contra partes comerciales. En ese entonces, Linux estaba en la edad oscura de la computación. Todo era dirigido por la línea de comandos, los dispositivos pocas veces funcionaban, y para hacer cualquier cosa se necesitaba compilar código. Aún así, este concepto de comunidad mundial compartiendo código me fascinó absolutamente. Aquí es cuando olí por primera vez el dulce aroma de la *oportunidad*.
