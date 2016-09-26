@@ -218,7 +218,7 @@ Linux, y la posibilidad de que se convirtiera en un sistema operativo prominente
 
    * Cualquiera con una conexión a Internet y una computadora puede contribuir. Todas las herramientas de desarrollo y documentación están libres y abiertas al acceso íntegramente. Esto brinda una baja barrera de entrada, y permite a nuevos usuarios jugar con la tecnología.
 
- Aunque estos elementos fueron esenciales durante el nacimiento de Linux, no son la comunicación abierta, el licenciamiento y las herramientas las que generan *oportunidad*. Estos elementos simplemente hicieron posible construir un sistema operativo de Software Libre de clase mundial. La oportunidad nace en el sentido de *creencia*.
+Aunque estos elementos fueron esenciales durante el nacimiento de Linux, no son la comunicación abierta, el licenciamiento y las herramientas las que generan *oportunidad*. Estos elementos simplemente hicieron posible construir un sistema operativo de Software Libre de clase mundial. La oportunidad nace en el sentido de *creencia*.
 
 La creencia es una función humana de crítica importancia. Ya sea su creencia en un dios todo creador, en la habilidad de un miembro de la familia para lograr algo por si mismo, en un futuro mejor en su vecindario, o en la confiabilidad de una guía de restaurantes, la creencia es lo que nos da esperanza para el mundo que nos rodea. La creencia también puede hacer seres humanos sorpresivamente resilientes en situaciones intensamente difíciles e incómodas.
 
