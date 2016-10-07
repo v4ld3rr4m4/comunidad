@@ -234,8 +234,32 @@ Pero, mientras mis compañeros organizadores y yo nos poníamos furiosos en el t
 
 Lo que me dejó pasmado fue lo movilizada que estaba la comunidad de LugRadio. La comunidad vio una amenaza a algo en lo que se sentían involucrados, y reaccionaron como un equipo para cubrir todas las bases y tratar de limitar el daño. Sin ningún estímulo de nuestra parte, ellos hicieron que las cosas ocurrieran. En un momento de tanto pánico y frustración, la comunidad envolvió a cada organizador como una cobija de bebé. Fue uno de los momentos más inspiradores que he visto de una comunidad uniéndose, dirigida por la creencia en algo que todos compartían.
 
-Donde la creencia se vuelve emocionante es cuando se combina con esa amiga de nosotros de unas páginas atrás: oportunidad. La creencia en una cruzada compartida - y un sentido de que las herramientas y oportunidades están disponibles para lograr ese objetivo - es un sentimiento intensamente liberandor. La gente obtiene un sentido de que ellos tienen el control sobre su propio destino.
+Donde la creencia se vuelve emocionante es cuando se combina con esa amiga de nosotros de unas páginas atrás: oportunidad. La creencia en una cruzada compartida - y un sentido de que las herramientas y oportunidades están disponibles para lograr ese objetivo - es un sentimiento intensamente liberador. La gente obtiene un sentido de que ellos tienen el control sobre su propio destino.
 
 Un ejemplo de esto fue la elección de Barack Obama como Presidente de los Estados Unidos. En el camino a su victoria, los Estados Unidos enfrentaban tiempos difíciles. Dirigidos por un presidente al que muchos no le tenían fe, y enfrentados con una crisis económica global y un complejo conjunto de asuntos exteriores, los Estados Unidos tenían mucho con lo que lidiar, incluyendo un sentido creciente de cinismo entre su gente. Muchos estadounidenses habían perdido la fe en la política y el orgullo hacia su país. Conforme Barack Obama se levantaba como un candidato para la elección presidencial, él inculcó un sentido de creencia y oportunidad que inspiró a sus seguidores.
 
 Cuando la gente siente que pueden alcanzar un sueño, eso construye un increíble sentido de liberación y la disposición de levantarse para ir al plato de home. La gente se vuelve muy comprometida, muy rápidamente. Vimos esto en tropel durante la elección presidencial. Miles de personas alrededor del país tomaron las calles para contarle al mundo acerca de Obama.
+
+Por esas épocas le había dado el beso de despedida a la fría Inglaterra y me había trasladado a la soleada California. El Área de la Bahía era un lugar particularmente fascinante para estar - gente preparando mesas, vendiendo calcomanías, tocando puertas, haciendo llamadas telefónicas. Parecía que una de cada tres personas en la calle estaba vistiendo una camiseta de Obama.
+
+Si Obama era el hombre correcto para el trabajo es un tema para miles de otros libros, pero él tenía la habilidad de definir una creencia, oportunidad y liberación en un lenguaje que la nación pudo entender. Su inspiración - y su ejército de apasionados Obamaniacos - selló su lugar en el Despacho Oval. Esto por si mismo es un ejercicio increíble de construcción, excitación e inspiración de comunidad, y, sin importar su inclinación política, fue una hazaña estupenda.
+
+### Un administrador de comunidad: convirtiéndose en comunidad
+
+Hasta aquí, hemos explorado algunos de los conceptos de alto nivel y la arquitectura detrás de la comunidad, y cómo se estructura. Son estos conceptos, tales como economía social, pertenencia, creencia, capital social, y comunicación, los que ayudan a dibujar el esbozo de la pintura. Vamos a usar el resto del libro para pintar los detalles.
+
+Sin embargo, antes de que sigamos, deberíamos pasar algún tiempo perfilando al artista que sostiene esta paleta de colores. ¿Cuáles son las habilidades necesarias para dibujar la pintura? ¿Qué atributos nos ayudarán a poner los colores adecuados en los lugares correctos? ¿Qué necesita usted para construir una comunidad realmente grandiosa?
+
+Dejando la metáfora a un lado, la construcción de comunidades es genuinamente una forma de arte. Como cualquier arte, hay atributos y características que definen a alguien como artista, pero cada artista tiene su propia «salsa especial» que lo hace único y diferente. Cada uno de ustedes lo suficientemente suertudo para tener su nariz enterrada en este libro tendrá la suya. A pesar de que hablo sobre algunas características comunes que todos los administradores de comunidad deberían tener, siempre esfuércese por encontrar su propio enfoque.
+
+***
+
+**El libro de casos de la comunidad**
+
+> Si usted trabaja para mejorar su oficio, y se preocupa profundamente de la integridad de su arte, yo pienso que tiene una buena oportunidad. Creo que si hace algo bueno, el éxito seguirá.
+
+-- Mike Shinoda, acerca del éxito.
+
+Lea la entrevista completa en el [Capítulo 14](capítulo_14.md).
+
+***
