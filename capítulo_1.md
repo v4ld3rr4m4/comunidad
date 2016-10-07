@@ -263,3 +263,23 @@ Dejando la metáfora a un lado, la construcción de comunidades es genuinamente 
 Lea la entrevista completa en el [Capítulo 14](capítulo_14.md).
 
 ***
+
+### Rompiendo la personalidad
+
+Al explorar la mente de un administrador de comunidad podemos separar los atributos necesarios en dos amplias áreas: *personalidad* y *rasgos estratégicos*. Estos últimos, *rasgos estratégicos*, son habilidades, perspectivas y capacidades que le ayudan a organizar problemas complejos en casillas lógicas, desarrollar puntos de acción y un plan, e implementar esas intenciones en una forma controlada. Como tal, voy a aplazar la exploración de esta parte del cerebro del administrador de comunidad para luego. Por ahora, hablemos sobre personalidad.
+
+Mi esposa y yo con frecuencia bromeamos sobre cómo respondo cuando alguien me pregunta qué hago para ganarme la vida. Yo describía mi trabajo como «administrar una comunidad mundial de voluntarios», lo que sonaba bastante preciso y completo para mi. Mi esposa estaba menos impresionada. Ella debidamente me empujó e indicó que eso lo hacía sonar como que administro un gran foro en línea de fanáticos de una animación japonesa muy extraña con una preocupante obsesión con los tentáculos. A partir de esa discusión, he intentado resumir en una oración qué es lo que nosotros los administradores de comunidades hacemos. Lo mejor que he logrado es esto:
+
+Yo ayudo a hacer posible que una colección mundial de voluntarios trabajen juntos para hacer cosas que marcan la diferencia para ellos.
+
+Ya lo sé, necesita más trabajo. Envíen mejores sugerencias a la dirección usual....
+
+Veinte de esas 22 palabras en realidad solo rellenan al rededor de las dos palabra que yo *verdaderamente* pienso que describen lo que hacemos: *hacer posible*.
+
+Nuestra función como líderes de comunidad es hacer posible que las personas sean lo mejor que pueden ser en la comunidad de la que han escogido ser parte. Nuestro trabajo es ayudar a que nuestros miembros de comunidad logren sus más grandes ambiciones, y ayudarles a trabajar con otros miembros para realizar no solo sus metas personales, sino también las metas de la comunidad misma.
+
+### La confianza lo es todo
+
+En el corazón de esta habilitación está la *confianza*. Como ya lo hemos discutido, la comunidad es fundamentalmente una economía social, y sus participantes reúnen capital social a través de sus contribuciones. Al ser el capital social, por su propia naturaleza, un producto de interacción social, la confianza es crítica. Si la gente en una comunidad no le tiene confianza, usted será tratado con precaución y tendrá que luchar para construir su capital social.
+
+Para líderes de comunidad y administradores, la confianza es un componente crítico para ganar el apoyo y la confidencia de sus miembros de comunidad. Más temprano exploramos el ejemplo de Barack Obama dando el paso adelante para entusiasmar a una nación en tiempos turbulentos. Parte de la razón de por qué esos tiempos eran turbulentos fue una considerable falta de confianza en el presidente George W. Bush. Cuando la confianza se desvanece, las palabras y promesas pierden sus significado. Cuando la confianza está presente, las palabras y promesas florecen en un mundo en el que tienen propósito y potencial.
