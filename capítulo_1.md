@@ -283,3 +283,23 @@ Nuestra función como líderes de comunidad es hacer posible que las personas se
 En el corazón de esta habilitación está la *confianza*. Como ya lo hemos discutido, la comunidad es fundamentalmente una economía social, y sus participantes reúnen capital social a través de sus contribuciones. Al ser el capital social, por su propia naturaleza, un producto de interacción social, la confianza es crítica. Si la gente en una comunidad no le tiene confianza, usted será tratado con precaución y tendrá que luchar para construir su capital social.
 
 Para líderes de comunidad y administradores, la confianza es un componente crítico para ganar el apoyo y la confidencia de sus miembros de comunidad. Más temprano exploramos el ejemplo de Barack Obama dando el paso adelante para entusiasmar a una nación en tiempos turbulentos. Parte de la razón de por qué esos tiempos eran turbulentos fue una considerable falta de confianza en el presidente George W. Bush. Cuando la confianza se desvanece, las palabras y promesas pierden sus significado. Cuando la confianza está presente, las palabras y promesas florecen en un mundo en el que tienen propósito y potencial.
+
+La confianza, sin embargo, no es algo que se puede aprender. Uno es de fiar, o no lo es. Como dijo mi padrastro a mi familia una tarde durante la cena, «Vivan su vida honestamente - si no lo hacen, siempre tendrán que recordar no ser ustedes mismos». Sus palabras me enseñaron una importante lección: cuando la confianza está implícita en cada paso que se da, siempre se puede estar seguro de la transparencia y sinceridad de sus acciones. Ese es el aspecto más importante del liderazgo de comunidad, y de la vida misma.
+
+Parte de la razón por la que la confianza es crítica es que, como un líder de comunidad, usted quiere estar emocionalmente cerca de todo el mundo en su comunidad. Usted quiere que todos en la comunidad piensen de usted como una persona accesible, abordable y sensible, y la confianza es requerida para cualquiera de esos roles. La gente se le acercará a pedir consejo, guía, para discutir problemas personales, para manejar conflictos y más. Muchas de estas situaciones serán complicadas, y usted necesitará un importante nivel de sensibilidad y confianza.
+
+### El valor de escuchar
+
+Parte importante para lograr ese sentido de confianza y confidencia es tener una base firme de entendimiento y paciencia. Usted debería estar consciente ahora mismo de que algunas personas van a ser frustrantes. Algunas personas van a ser demasiado rápidas para actuar y opinar en un tema, y algunas serán muy tímidas y reacias a levantar su mano. Algunas personas se obsesionarán sobre las cosas equivocadas y regularmente producirán lo que parece ser una tormenta en un vaso de agua.
+
+Pero por otro lado, algunas personas le inspirarán con su sentido de responsabilidad, su capacidad para reaccionar con gracia y elegancia ante situaciones complicadas, y su disposición para cuidar la comunidad. Como un líder de comunidad, usted experimentará todos los lados de la naturaleza humana, desde fortaleza e innovación hasta debilidad e incertidumbre. Cualquier cosa que oiga en su comunidad, usted debería esforzarse por ser el mejor interlocutor que pueda.
+
+Cuando pueda demostrar confianza y la habilidad de escuchar, su comunidad desarrollará respeto hacia usted. Ellos estarán ahí para escucharle, para trabajar con usted, para acompañarle en sus batallas y convertirse en una gran familia extendida en la que puede confiar.
+
+Este respeto tiene una función importante para reforzar la creencia en su comunidad. Cuando los miembros de la comunidad tienen interacciones sensibles y positivas con los líderes de la comunidad, eso hace que la comunidad se sienta más inclusiva, lo que genera creencia y, de forma importante, pertenencia.
+
+El respeto es un regalo maravilloso, y usted debería apreciarlo y protegerlo cueste lo que cueste. Recobrar ese respeto después de perderlo es una tarea casi imposible.
+
+### Evite el ego, u otros lo evitarán a usted
+
+Así como el tipo correcto de inspiración puede causar efectos duraderos, las decisiones y enfoques equivocados puede causar daños duraderos.
