@@ -333,3 +333,35 @@ Parte de la razón por la que he llenado este libro con tantos ejemplos es que y
 Desafortunadamente, algunas personas tienen un amorío con la teoría. Muchas de estas personas escriben extensas entradas de blog, dan presentaciones muy genéricas (aunque bien intencionadas), y por lo general parecen pensar que su rol principal es impartir conocimiento a otros y sonar tan salvajemente académicos como sea posible. Pero no hay un ingrediente secreto para hacer crecer una comunidad. Lo que hace grande a un líder de comunidad es la experiencia: intentar nuevas ideas y conceptos, y aprender de los éxitos y errores.
 
 Por supuesto, la teoría tiene su lugar: puede ayudarnos a ver, analizar y deconstruir las cosas que están frente a nosotros. Yo tengo un respeto absoluto por personas que enseñan a otras su arte; pero la enseñanza realmente necesita ser secundaria, luego de salir y estar ahí con su comunidad y ayudar a liderar e inspirarles. Use la teoría como un medio para ver formas en el caos, pero siempre asegúrese de que su enfoque principal está en esforzarse para hacer el caos menos caótico.
+
+### Convirtiéndose en uno mismo
+
+Antes de terminar esta parte de nuestro viaje, quiero devolverme a nutra discusión anterior acerca de encontrar su «salsa especial». En las páginas anteriores hemos hablado de muchos de los rasgos admirables en un buen líder de comunidad (confianza, paciencia, respeto, capacidad de escucha, etc.) y algunos de los rasgos problemáticos (ego, manía de control, obsesión con la teoría, etc.) y tal vez esté un poco perdido en cómo llegar al balance correcto. Afortunadamente la solución es simple.
+
+Sea usted mismo.
+
+Su «salsa secreta» es usted. Su personalidad es el mayor activo que tiene. Antes hablamos sobre cómo la confianza es el componente más crítico para ser un gran líder de comunidad. Si usted trata de convertirse en alguien que usted no es, sacrificará el más importante de los rasgos. Sea usted mismo. Identifique sus propios rasgos, celebre los buenos, y aprenda a mejorar los malos, pero siempre sea usted mismo: lo pondrá en buen camino.
+
+Yo aprendí esta lección cuando empezamos a hacer LugRadio. En ese entonces yo era un periodista: escribía para cerca de 12 revistas, y también escribía columnas para varias publicaciones. Como parte de mi trabajo yo escribía mis artículos y crónicas en un editor de textos, y luego tenía bastante tiempo para editarlos, escoger mis palabras cuidadosamente, refinar mi lenguaje y perfeccionar mi tono. Yo podía realizar mucha investigación para asegurar que mis citas fuesen correctas, y sacar de una biblioteca mundial de citas e historias para ilustrar mis puntos de forma efectiva. En resumen, ser un periodista me permitió tomar mi voz y asegurarme que fuese lo más refinada posible.
+
+Luego empezamos a hacer LugRadio. Desde el día uno, LugRadio se estableció para ser un tiro rápido, suelto, una terca exploración social de los temas del Software Libre y la Cultura Libre. No había edición. No había censura de opiniones. Cada palabra que salía de nuestras bocas quedaba escrita en la historia. Tenía agallas, era controversial, pero de forma importante, eramos *nosotros*. De la honestidad de LugRadio era de lo que estábamos tan orgullosos.
+
+Aunque mi trabajo de escritor y periodístico era honesto y nunca pintaba una pintura incorrecta de mi voz o mis puntos de vista, la fase de edición de la escritura agregaba un poco más de brillo y más oportunidad para remover cualquier aspecto controversial de mi trabajo. Con LugRadio, cada palabra que fluía de mi boca hasta los oídos de las personas era mucho menos formalizada: era yo en mi traje de nacimiento, sin restricciones.
+
+Por cerca de dos días estuve realmente preocupado por esto. ¿Iba LugRadio a afectar mi carrera como periodista? ¿Pensarían las personas menos de mi por mi participación en este inmensamente terco programa? ¿Estaría cerrando potenciales oportunidades si las personas me oían por quien realmente soy?
+
+Una tarde, mientras estaba en mi entrenamiento de karate, sudando y ejecutando la segunda kata, decidí que no me importaba. Siempre me había prometido a mi mismo que sería yo en mi vida profesional y personal. Nunca cubriría mis perspectivas, mis puntos de vista, mis intereses o mis ambiciones. Siempre estuve dispuesto a ser profesional y respetuoso de las situaciones en las que estaba, ya fueran ocasiones más formales o funciones sociales de bajo perfil, pero fundamentalmente, el corazón de mi enfoque sería mio. Esa fue la primer prueba de ese enfoque, y desde entonces no me he arrepentido.
+
+Yo creo que este compromiso de ser uno mismo es crítico para ser un gran líder de comunidad. La declaración de mi padrastro - «Vivan su vida honestamente - si no lo hacen, siempre tendrán que recordar no ser ustedes mismos» - en realidad va mucho más profundo. No solo deberíamos aspirar a llevar una vida buena y con principios, sino que si vivimos en una forma que es honesta con quienes realmente somos, nunca tendremos que preocuparnos por mantener la ilusión. Mi padrastro ha tomado ese enfoque, y también mi padre, y yo he aprendido de ellos y tengo un increíble respeto por sus métodos.
+
+Si toman este enfoque en su trabajo y logran hacer una buena tarea atrayendo y trabajando con su comunidad, nunca tendrán que preocuparse por confianza, transparencia o respeto; las personas sabrán que las palabras que salen de sus bocas son suyas, que sus opiniones son suyas, y que su consejo es suyo.
+
+Esto es particularmente importante al ser un administrador de comunidad profesional. Cuando empecé a trabajar para Canonical como el administrador de la comunidad de Ubuntu, esperaba que las personas se preocuparan de que Canonical podría estar jalando las cuerdas para hacerme bailar. Fue muy importante para mi demostrar a cualquier comunidad en la que estoy involucrado que mi compromiso es genuino, y que estoy tan dispuesto a enfrentarme a patrocinadores comerciales como lo estoy de enfrentarme a la comunidad. La confianza y responsabilidad son una calle de doble vía.
+
+### Siguiendo adelante
+
+En este capítulo hemos tomado una pieza de papel y esbozado los principales bosquejos de una comunidad. Hemos discutido algunos de los mecanismos de alto nivel de cómo trabaja una comunidad, explorado por qué las personas construyen comunidad y analizado qué tipos de atributos existen en grandes líderes de comunidad. El objetivo de este capítulo fue construir un vistazo general en el que ahondaremos con más detalle a lo largo del resto de este libro.
+
+La siguiente parada en nuestro viaje es construir un plan para nuestra comunidad. Aunque una comunidad es una colección de personas y procesos bastante orgánica, podemos diseñar una sorprendente cantidad de estructura alrededor de ella. Esto nos da la oportunidad de mapear más fácilmente el camino a seguir.
+
+No se ustedes, pero yo estoy listo para rodar. Hagámoslo...
