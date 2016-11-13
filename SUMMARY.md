@@ -5,3 +5,4 @@
 * [Prefacio](prefacio.md)
 * [Agradecimientos](agradecimientos.md)
 * [El arte de la comunidad](capítulo_1.md)
+* [Planeando su comunidad](capítulo_2.md)
