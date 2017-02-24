@@ -87,3 +87,19 @@ Construir una comunidad fuerte es un prospecto emocionante y gratificante, pero 
 Primero necesitamos dar un paso atrás y entender nuestros objetivos generales. Cuando nos levantamos y decidimos que queremos construir una comunidad, ¿qué es lo que queremos lograr? Aparte de las metas de la comunidad misma, ya sea construir un proyecto de software, cambiar un sistema político, o cualquier otra cosa, ¿cómo inspiramos a un conjunto de gente a marchar hacia adelante como si fueran uno solo? ¿Cómo exactamente unimos a la gente? Bueno, podemos explicar esto usando... puntos.
 
 Sí, puntos.
+
+Ya sé lo que están pensando: usted está loco, Bacon. Los puntos parecen algo sencillo. Por supuesto que lo son, pero son diferentes en muchas formas. Diferentes colores, diferentes tamaños, diferentes formas. Usted puede no saber esto, pero los puntos tienen montones de personalidades. Tome por ejemplo los tres puntos mostrados en la Figura 2-1.
+
+# TODO: Figura 2-1.
+
+Lectores, quiero presentarles a la familia Punto: Juan, Paulina y Ken. Aunque se vean similares, cada uno tiene una personalidad y habilidades muy distintivas. Lo que los une es la misma pasión: crear un sitio web de red social completamente nuevo y original, construido para puntos, por puntos, llamado... PuntoBook.
+
+Juan, Paulina y Ken contribuyen en formas muy diferentes. Juan (a la izquierda) es un programador, Paulina (en el centro) ama escribir documentación, y Ken (a la derecha) es bastante aficionado al dibujo. Lo sé, él tiene esa apariencia artística.
+
+Juan, Paulina y Ken no están solos. Hay muchos puntos como ellos allá afuera en la Internet...
+
+El problema, como pueden ver en la Figura 2-2, es que todos los Juanes, Paulinas y Kens, y sus respectivas habilidades, están dispersos por toda la Internet. Y en realidad no se conocen. Están unidos por la misma meta, pero no están trabajando juntos.
+
+# TODO: Figura 2-2.
+
+Una comunidad es justo como la Figura 2-2: un conjunto disperso de puntos. Uno de nuestros primeros objetivos es juntar estas áreas de interés conectadas en un equipo bien formado. Resulta que cuando los Juanes tienen la posibilidad de hablar con otros Juanes, algunas cosas interesantes ocurren. Estos equipos son contenedores importantes de experiencia e interés dentro de nuestra comunidad más amplia.
