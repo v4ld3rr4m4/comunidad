@@ -59,3 +59,31 @@ Lo que esta experiencia me enseñó, totalmente por casualidad, fue que la veloc
 Lea la entrevista completa en el [Capítulo 14](capítulo_14.md).
 
 ***
+
+### Planeando para el éxito
+
+Como descubrirá a través de *El Arte de la Comunidad*, a mi me gusta introducir conceptos de una forma muy específica. Primero presento una discusión de alto nivel acerca de las prioridades principales y cubro los fundamentos. Luego, me enfoco en los detalles y desarrollo el tema. Este enfoque hace que introducir el tema sea más parecido a entrar en una piscina caliente en un día soleado, que lanzarse a un río congelado en Finlandia.
+
+Nuestro objetivo en este capítulo es explorar cómo construir una estrategia para nuestras comunidades. Primero exploramos cuatro cimientos dentro de una comunidad. Cada uno de estos aloja los detalles subyacentes que exploraremos a lo largo del resto del libro. Dentro de estos cimientos están los equipos, los buques de la comunidad, los cuales luego abriremos para ver cómo trabajan. A continuación definiremos nuestra misión, objetivos y metas, y los levantaremos en un plan estratégico final. Cubriremos mucho terreno en este capítulo, así que tome una taza de té (yo recomendaría también una Hobnob para sumergirla en él), y póngase cómodo.
+
+Con tantas áreas de discusión, necesitamos seleccionar los conceptos clave y tenerlos a mano. Es fácil olvidar o leer por encima aspectos sutiles pero importantes en el crecimiento de una comunidad. Para hacer esto sencillo, voy a agregarlos a una lista de cosas por hacer conforme los descubrimos a lo largo del capítulo.
+
+***
+
+** Lista de cosas por hacer para la Comunidad **
+
+* Detalle de ejemplo.
+
+* Detalle de ejemplo.
+
+***
+
+Más adelante en el libro volveremos a visitar esta lista y la usaremos para formar las bases de nuestro plan estratégico.
+
+#### Comunidad: el vistazo general
+
+Construir una comunidad fuerte es un prospecto emocionante y gratificante, pero llegar ahí puede ser complejo. Usted sólo necesita ver la tabla de contenidos de este libro para ver que el tema es enormemente diverso y detallado.
+
+Primero necesitamos dar un paso atrás y entender nuestros objetivos generales. Cuando nos levantamos y decidimos que queremos construir una comunidad, ¿qué es lo que queremos lograr? Aparte de las metas de la comunidad misma, ya sea construir un proyecto de software, cambiar un sistema político, o cualquier otra cosa, ¿cómo inspiramos a un conjunto de gente a marchar hacia adelante como si fueran uno solo? ¿Cómo exactamente unimos a la gente? Bueno, podemos explicar esto usando... puntos.
+
+Sí, puntos.
