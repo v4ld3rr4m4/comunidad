@@ -76,7 +76,7 @@ La razón por la que Ben estaba tan involucrado con LugRadio, por la que Neil re
 
 Por definición, una comunidad es una colección de personas (o animales) que interactúan unos con otros en el mismo ambiente. En la naturaleza existen comunidades en todos lados. Desde personas hasta pingüinos, desde monos hasta suricatas, la gran mayoría de los organismos exhibe alguna forma de agrupamiento colectivo. Agrupamiento, sin embargo, es un poco simplista como forma de describir una comunidad. No es simplemente que el grupo genera comunidad, sino las interacciones dentro de este. Estas interacciones y el sentimiento de pertenencia que producen se generan desde un distintivo tipo de economía: una *economía social*.
 
-### Construyendo pertenencia en la economía social
+#### Construyendo pertenencia en la economía social
 
 En este punto de nuestro viaje es claro que la *pertenencia* es nuestro objetivo. Es esa palabra de once letras la que debería transcribir en letras grandes y pegarla en el muro de su oficina. Es esa la palabra que debería estar en el primer plano de su inspiración detrás de construir una comunidad fuerte. Si no hay pertenencia, no hay comunidad.
 
@@ -264,7 +264,7 @@ Lea la entrevista completa en el [Capítulo 14](capítulo_14.md).
 
 ***
 
-### Rompiendo la personalidad
+#### Rompiendo la personalidad
 
 Al explorar la mente de un administrador de comunidad podemos separar los atributos necesarios en dos amplias áreas: *personalidad* y *rasgos estratégicos*. Estos últimos, *rasgos estratégicos*, son habilidades, perspectivas y capacidades que le ayudan a organizar problemas complejos en casillas lógicas, desarrollar puntos de acción y un plan, e implementar esas intenciones en una forma controlada. Como tal, voy a aplazar la exploración de esta parte del cerebro del administrador de comunidad para luego. Por ahora, hablemos sobre personalidad.
 
@@ -278,7 +278,7 @@ Veinte de esas 22 palabras en realidad solo rellenan al rededor de las dos palab
 
 Nuestra función como líderes de comunidad es hacer posible que las personas sean lo mejor que pueden ser en la comunidad de la que han escogido ser parte. Nuestro trabajo es ayudar a que nuestros miembros de comunidad logren sus más grandes ambiciones, y ayudarles a trabajar con otros miembros para realizar no solo sus metas personales, sino también las metas de la comunidad misma.
 
-### La confianza lo es todo
+#### La confianza lo es todo
 
 En el corazón de esta habilitación está la *confianza*. Como ya lo hemos discutido, la comunidad es fundamentalmente una economía social, y sus participantes reúnen capital social a través de sus contribuciones. Al ser el capital social, por su propia naturaleza, un producto de interacción social, la confianza es crítica. Si la gente en una comunidad no le tiene confianza, usted será tratado con precaución y tendrá que luchar para construir su capital social.
 
@@ -288,7 +288,7 @@ La confianza, sin embargo, no es algo que se puede aprender. Uno es de fiar, o n
 
 Parte de la razón por la que la confianza es crítica es que, como un líder de comunidad, usted quiere estar emocionalmente cerca de todo el mundo en su comunidad. Usted quiere que todos en la comunidad piensen de usted como una persona accesible, abordable y sensible, y la confianza es requerida para cualquiera de esos roles. La gente se le acercará a pedir consejo, guía, para discutir problemas personales, para manejar conflictos y más. Muchas de estas situaciones serán complicadas, y usted necesitará un importante nivel de sensibilidad y confianza.
 
-### El valor de escuchar
+#### El valor de escuchar
 
 Parte importante para lograr ese sentido de confianza y confidencia es tener una base firme de entendimiento y paciencia. Usted debería estar consciente ahora mismo de que algunas personas van a ser frustrantes. Algunas personas van a ser demasiado rápidas para actuar y opinar en un tema, y algunas serán muy tímidas y reacias a levantar su mano. Algunas personas se obsesionarán sobre las cosas equivocadas y regularmente producirán lo que parece ser una tormenta en un vaso de agua.
 
@@ -300,7 +300,7 @@ Este respeto tiene una función importante para reforzar la creencia en su comun
 
 El respeto es un regalo maravilloso, y usted debería apreciarlo y protegerlo cueste lo que cueste. Recobrar ese respeto después de perderlo es una tarea casi imposible.
 
-### Evite el ego, u otros lo evitarán a usted
+#### Evite el ego, u otros lo evitarán a usted
 
 Así como el tipo correcto de inspiración puede causar efectos duraderos, las decisiones y enfoques equivocados puede causar daños duraderos.
 
@@ -322,7 +322,7 @@ La parte más frustrante del cuento es que el tipo en cuestión era y sigue sien
 
 Me gustaría pretender que estos casos son raros, pero desafortunadamente no lo son. Ocurren cada día, en una serie de comunidades alrededor del mundo, y usted debería siempre tener este riesgo en primer plano en su mente: no sea *ese* tipo.
 
-### Teoría versus acción: gana la acción
+#### Teoría versus acción: gana la acción
 
 Un efecto secundario sutil del ego es uno que no amenaza tanto la reputación como la forma en que usted prioriza lo que es importante. La amenaza se basa en un sentido de que su opinión, enfoque y perspectiva son los únicos que tienen mérito. Mientras la arrogancia es uno de los resultados de estos elementos, un riesgo mucho más sutil que puede surgir a la superficie es volverse *demasiado enfocado en la teoría*.
 
@@ -334,7 +334,7 @@ Desafortunadamente, algunas personas tienen un amorío con la teoría. Muchas de
 
 Por supuesto, la teoría tiene su lugar: puede ayudarnos a ver, analizar y deconstruir las cosas que están frente a nosotros. Yo tengo un respeto absoluto por personas que enseñan a otras su arte; pero la enseñanza realmente necesita ser secundaria, luego de salir y estar ahí con su comunidad y ayudar a liderar e inspirarles. Use la teoría como un medio para ver formas en el caos, pero siempre asegúrese de que su enfoque principal está en esforzarse para hacer el caos menos caótico.
 
-### Convirtiéndose en uno mismo
+#### Convirtiéndose en uno mismo
 
 Antes de terminar esta parte de nuestro viaje, quiero devolverme a nutra discusión anterior acerca de encontrar su «salsa especial». En las páginas anteriores hemos hablado de muchos de los rasgos admirables en un buen líder de comunidad (confianza, paciencia, respeto, capacidad de escucha, etc.) y algunos de los rasgos problemáticos (ego, manía de control, obsesión con la teoría, etc.) y tal vez esté un poco perdido en cómo llegar al balance correcto. Afortunadamente la solución es simple.
 
