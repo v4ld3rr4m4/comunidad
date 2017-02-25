@@ -113,3 +113,19 @@ Como un ejemplo, la comunidad de Ubuntu tiene un interés compartido de construi
 Los equipos son una figura esencial en la construcción de comunidad: no sólo son los contenedores en los cuales la comunidad crece, sino que también son unidades convenientes de capacidad, que le ayudan a entender estratégicamente la estructura de su comunidad y encontrar de qué es capaz. Cuando Juan Punto conoce otros puntos que comparten sus intereses y se emociona por las mismas oportunidades, los equipos también se vuelven contenedores de *pertenencia*.
 
 Aunque los equipos tienen un enfoque principal (por lo general una habilidad, como el arte o la documentación), no debería ser demasiado rígido en ese enfoque. Cada equipo tendrá miembros que están interesados en esta función primaria, pero que también traerán otras habilidades y percepciones al equipo. Como un ejemplo, en una comunidad de software, es enormemente valioso para el equipo de arte tener también miembros con habilidades de programación: con frecuencia pueden acelerar la implementación de contribuciones de arte en el desarrollo técnico de la aplicación. Como tal, alienten y optimicen una membresía basada en el enfoque principal del equipo, pero también celebren y hagan uso de las otras habilidades de sus miembros.
+
+Los equipos ofrecen abundancia de oportunidades y beneficios al construir una comunidad fuerte, y los discutiremos de forma extensa más adelante en el capítulo. Primero, agreguemos esta meta en nuestra lista de cosas por hacer.
+
+***
+
+** Lista de cosas por hacer para la Comunidad **
+
+* Identificar cómo podemos dividir la comunidad en equipos.
+
+***
+
+Aunque la construcción de equipos es valiosa, no es suficiente. Como una unidad de capacidad, un equipo es aún parte de la comunidad más amplia que se esfuerza por una meta común. Necesitamos asegurar que nuestros equipos encajan como un rompecabezas completo. La comunicación, las ideas y las historias deben fluir libremente entre sus equipos, como en la Figura 2-4.
+
+# TODO: Figura 2-4.
+
+El flujo de comunicación entre los equipos es mucho más complejo que lo que se podrían imaginar al inicio. ¿Cómo podemos asegurar un flujo sencillo de ideas y progreso entre dos equipos que se enfocan en partes diferentes de la comunidad? ¿Cómo puede su equipo de arte comunicarse bien con su equipo de desarrollo? Esto abre una enorme cantidad de preguntas. Incluso con los tres equipos de la Figura 2-4, ¿cómo se comunican? ¿Qué medios usan? ¿Cómo lidian con problemas de geografía y zonas horarias? ¿Cómo reportan sus interacciones a la comunidad? ¿Cómo le dan seguimiento a su progreso? ¿Cómo entendemos cómo los diferentes equipos trabajan juntos? No es un problema fácil de resolver.
