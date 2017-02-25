@@ -102,4 +102,14 @@ El problema, como pueden ver en la Figura 2-2, es que todos los Juanes, Paulinas
 
 # TODO: Figura 2-2.
 
-Una comunidad es justo como la Figura 2-2: un conjunto disperso de puntos. Uno de nuestros primeros objetivos es juntar estas áreas de interés conectadas en un equipo bien formado. Resulta que cuando los Juanes tienen la posibilidad de hablar con otros Juanes, algunas cosas interesantes ocurren. Estos equipos son contenedores importantes de experiencia e interés dentro de nuestra comunidad más amplia.
+Una comunidad es justo como la Figura 2-2: un conjunto disperso de puntos. Uno de nuestros primeros objetivos es juntar estas áreas de interés conectadas en un equipo bien formado. Resulta que cuando los Juanes tienen la posibilidad de hablar con otros Juanes, algunas cosas interesantes ocurren. Estos equipos son contenedores importantes de experiencia e interés dentro de nuestra comunidad más amplia (vea la Figura 2-3).
+
+# TODO: Figura 2-3.
+
+Si pensamos en una comunidad como un grupo entremezclado de puntos amontonados sobre un interés compartido (e.g., protestar contra una ley ridícula, discutir sobre un tema, construir un sistema operativo), los equipos son el más pequeño de los subgrupos, por lo general basados alrededor de un interés primario o un conjunto de habilidades (e.g., promoción y documentación) que ayuda hacia el interés compartido.
+
+Como un ejemplo, la comunidad de Ubuntu tiene un interés compartido de construir un sistema operativo de Software Libre. Para hacer esto, hay muchos grupos más pequeños que realizan traducciones, producen paquetes, escriben documentación, prueban software, promueven Ubuntu, y mucho más. Estos son los equipos que buscamos construir: separar nuestra amplia comunidad en pedazos más pequeños, más manejables. Cada equipo se une para resolver una parte de la objetivo más grande de la comunidad.
+
+Los equipos son una figura esencial en la construcción de comunidad: no sólo son los contenedores en los cuales la comunidad crece, sino que también son unidades convenientes de capacidad, que le ayudan a entender estratégicamente la estructura de su comunidad y encontrar de qué es capaz. Cuando Juan Punto conoce otros puntos que comparten sus intereses y se emociona por las mismas oportunidades, los equipos también se vuelven contenedores de *pertenencia*.
+
+Aunque los equipos tienen un enfoque principal (por lo general una habilidad, como el arte o la documentación), no debería ser demasiado rígido en ese enfoque. Cada equipo tendrá miembros que están interesados en esta función primaria, pero que también traerán otras habilidades y percepciones al equipo. Como un ejemplo, en una comunidad de software, es enormemente valioso para el equipo de arte tener también miembros con habilidades de programación: con frecuencia pueden acelerar la implementación de contribuciones de arte en el desarrollo técnico de la aplicación. Como tal, alienten y optimicen una membresía basada en el enfoque principal del equipo, pero también celebren y hagan uso de las otras habilidades de sus miembros.
