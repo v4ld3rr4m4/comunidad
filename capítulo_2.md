@@ -129,3 +129,26 @@ Aunque la construcción de equipos es valiosa, no es suficiente. Como una unidad
 # TODO: Figura 2-4.
 
 El flujo de comunicación entre los equipos es mucho más complejo que lo que se podrían imaginar al inicio. ¿Cómo podemos asegurar un flujo sencillo de ideas y progreso entre dos equipos que se enfocan en partes diferentes de la comunidad? ¿Cómo puede su equipo de arte comunicarse bien con su equipo de desarrollo? Esto abre una enorme cantidad de preguntas. Incluso con los tres equipos de la Figura 2-4, ¿cómo se comunican? ¿Qué medios usan? ¿Cómo lidian con problemas de geografía y zonas horarias? ¿Cómo reportan sus interacciones a la comunidad? ¿Cómo le dan seguimiento a su progreso? ¿Cómo entendemos cómo los diferentes equipos trabajan juntos? No es un problema fácil de resolver.
+
+Estas preguntas no son sólo acerca de cómo dos o tres equipos se comunican. Estas llegan al corazón del ethos de la comunidad como un todo: el estándar para cómo están estructurados los equipos, cómo se comportan, y cómo se comunican.
+
+Como lo mencioné antes, aunque sus equipos tengan un enfoque principal (como traducciones, digamos), habrán muchas otras habilidades presentes en sus equipos, y muchas personas estarán en múltiples equipos. No necesitamos sólo fomentar la comunicación efectiva entre equipos (como reuniones regulares, verificación de progreso, y canales de comunicación compartidos), sino que también necesitamos hacer uso de personas que tienen sus pies en múltiples equipos. Ellos pueden ser el pegamento que mantiene unidos los equipos. Estas personas deberían estar en su lista de tarjetas por enviar en navidad.
+
+Este tema es parte de la *gobernancia*, y es tan grande y crítico para el éxito de la comunidad que le he dedicado el [Capítulo 10](capítulo_10.md) más adelante en este libro. Asegurémonos de tomar nota de la comunicación del equipo en nuestra lista de cosas por hacer, aunque hasta después veamos cómo construir esto cuando discutamos gobernancia.
+
+***
+
+** Lista de cosas por hacer para la Comunidad **
+
+* Identificar cómo podemos dividir la comunidad en equipos.
+* Asegurar que los equipos se pueden comunicar de forma clara y efectiva.
+
+***
+
+La siguiente área de atención es el crecimiento de los y las contribuyentes. Nos gustan los puntos como Juan, Paulina y Ken, y queremos alentar más como ellos en nuestra comunidad, como podemos ver en la Figura 2-5.
+
+Cuando se trata de nuevos contribuyentes, esencialmente buscamos satisfacer dos deseos primarios: *capacidad* y *diversidad*.
+
+Con la *capacidad*, nuestro objetivo es poner más manos a la obra. Más manos (coordinadas) por lo general significan que más cosas se terminan. La mayoría de comunidades tienen metas algo audaces (que discutiremos más adelante), y estas metas casi siempre superan los recursos disponibles para implementarlas. Este cuello de botella puede causar agotamiento (un tema que discutiremos de forma extensa en el [Capítulo 11](capítulo_11.md), pero de forma más inmediata genera una necesidad de encontrar más recursos.
+
+Atraer miembros a su comunidad es una gran tarea, pero atraer un rango diverso de contribuyentes es algo muy distinto. Aunque no es crítica en una comunidad, la diversidad tiene un gran valor: diferentes habilidades, culturas, perspectivas, actitudes y experiencias hace una experiencia de comunidad más rica.
