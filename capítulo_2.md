@@ -168,3 +168,11 @@ Más adelante en este libro, en el [Capítulo 7](capítulo_7.md), exploramos có
 ***
 
 El último gran paso al construir una comunidad sólida es construir un ambiente positivo, como se muestra en la Figura 2-6 (nos enfocaremos en construir un ambiente sólido en el [Capítulo 4](capítulo_4.md). Su comunidad debería sentirse inspirada, motivada y emocionada por la oportunidad de cumplir los objetivos que soñaron.
+
+# TODO: Figura 2-6.
+
+El ambiente juega un enorme rol en todo lo que hacemos. Cada elemento de nuestro ambiente afecta nuestras perspectivas, emociones y expectativas.
+
+Considere un ambiente convencional, como un barrio. Muchos atributos del ambiente pueden afectar la percepción, por ejemplo, de la sensación de seguridad. Ejemplos que afectan esa sensación incluyen el tamaño y el estilo de las casas, los tipos de carros en la calle, los residentes, lo que visten y su lenguaje corporal, la iluminación en las calles durante la noche, el ruido de fondo, la cantidad de tráfico, y más. Compare y contraste un barrio en apariencia amistoso y social, en el cual los niños caminan por ahí y la gente está hablando en la calle, con un lugar poco amistoso, cerrado y restringido en el que pocas personas están hablando y compartiendo sus vidas con los demás. El dinero no es el factor decisivo aquí: comunidades cerradas super caras por lo general tienen tan poca socialización como cuadras de torres muy pobres en el centro de la ciudad. Fundamentalmente, las dos tienen las mismas piezas centrales - casas, calles, carros, alumbrado público, residentes y así - pero el ambiente afecta grandemente la percepción. La percepción mental de un pintoresco pueblo rural adornado con sus pequeñas calles, tiendas de té y una abundante candidad de gente mayor jugando ajedres es muy diferente a esa de una cuadra del centro de la ciudad con sus edificios cuadrados, grandes portones y gente apurándose para ir a trabajar.
+
+El ambiente no sólo afecta la percepción, sino también la oportunidad. En un barrio que se percibe como inseguro, es menos probable que los residentes interactúen entre ellos debido al miedo. En una comunidad que se siente segura y acogedora, prosperan los grupos locales, conversaciones ad hoc y otras interacciones. Estas consideraciones no sólo aplican a las comunidades geográficas, su ambiente en línea tiene la misma importancia.
