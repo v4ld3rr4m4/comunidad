@@ -152,3 +152,19 @@ Cuando se trata de nuevos contribuyentes, esencialmente buscamos satisfacer dos 
 Con la *capacidad*, nuestro objetivo es poner más manos a la obra. Más manos (coordinadas) por lo general significan que más cosas se terminan. La mayoría de comunidades tienen metas algo audaces (que discutiremos más adelante), y estas metas casi siempre superan los recursos disponibles para implementarlas. Este cuello de botella puede causar agotamiento (un tema que discutiremos de forma extensa en el [Capítulo 11](capítulo_11.md), pero de forma más inmediata genera una necesidad de encontrar más recursos.
 
 Atraer miembros a su comunidad es una gran tarea, pero atraer un rango diverso de contribuyentes es algo muy distinto. Aunque no es crítica en una comunidad, la diversidad tiene un gran valor: diferentes habilidades, culturas, perspectivas, actitudes y experiencias hace una experiencia de comunidad más rica.
+
+# TODO: Figura 2-5.
+
+Más adelante en este libro, en el [Capítulo 7](capítulo_7.md), exploramos cómo atraer miembros a su comunidad. Esto requiere no sólo hacer a su comunidad atractiva para posibles miembros, sino también ofrecerles un flujo de trabajo efectivo de forma que puedan ver que sus contribuciones se aprovechen sin mucha molestia. ¿Qué retos enfrentan sus miembros al contribuir? ¿Cómo podemos hacer que esas barreras sean lo más bajas posible para la sangre nueva pero que sigan atrayendo las habilidades correctas? ¿Cuáles son las habilidades correctas? Agreguemos esta meta importante a la lista de cosas por hacer.
+
+***
+
+** Lista de cosas por hacer para la Comunidad **
+
+* Identificar cómo podemos dividir la comunidad en equipos.
+* Asegurar que los equipos se pueden comunicar de forma clara y efectiva.
+* Atraer un rango diverso de contribuyentes a nuestra comunidad para que se involucren y contribuyan con nuestros objetivos.
+
+***
+
+El último gran paso al construir una comunidad sólida es construir un ambiente positivo, como se muestra en la Figura 2-6 (nos enfocaremos en construir un ambiente sólido en el [Capítulo 4](capítulo_4.md). Su comunidad debería sentirse inspirada, motivada y emocionada por la oportunidad de cumplir los objetivos que soñaron.
