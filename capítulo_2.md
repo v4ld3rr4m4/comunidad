@@ -40,7 +40,7 @@ Era tiempo de poner la máquina a rodar. Configuramos un repositorio de código,
 
 Un poco después en el desarrollo, el proyecto tuvo un importante cambio de nombre; yo no estaba feliz con *JonoEdit*. Luego de pedir sugerencias, Steve Parkes, uno de los presentadores originales de LugRadio, sugirió *Jokosher*. El nombre estaba formado por «Jo», y «Kosher», que él entendía como «Sin tocino» o «No Bacon» en Inglés, de forma que construía mi nombre. De nuevo, estaba halagado. Se sintió raro, pero al equipo le gustó el nuevo nombre, y nos quedamos con ese.
 
-Todos trabajaron duro. Pasamos largas tardes escribiendo código, depurando, arreglando errores y escribiendo documentación. Pieza por pieza construimos no solo una aplicación, sino también una comunidad. Desarrollamos un sentido de unidad, y nos empezamos a convertir en un equipo.
+Todos trabajaron duro. Pasamos largas tardes escribiendo código, depurando, arreglando errores y escribiendo documentación. Pieza por pieza construimos no sólo una aplicación, sino también una comunidad. Desarrollamos un sentido de unidad, y nos empezamos a convertir en un equipo.
 
 Eventualmente, luego de meses de trabajo, publicamos la primera versión. A partir de unas pocas ideas, expresadas con mis habilidades de diseño de principiante, construimos algo que la gente podía tocar. Hoy, aunque me he alejado para trabajar en otras cosas, Jokosher es un proyecto próspero.
 
@@ -173,6 +173,33 @@ El último gran paso al construir una comunidad sólida es construir un ambiente
 
 El ambiente juega un enorme rol en todo lo que hacemos. Cada elemento de nuestro ambiente afecta nuestras perspectivas, emociones y expectativas.
 
-Considere un ambiente convencional, como un barrio. Muchos atributos del ambiente pueden afectar la percepción, por ejemplo, de la sensación de seguridad. Ejemplos que afectan esa sensación incluyen el tamaño y el estilo de las casas, los tipos de carros en la calle, los residentes, lo que visten y su lenguaje corporal, la iluminación en las calles durante la noche, el ruido de fondo, la cantidad de tráfico, y más. Compare y contraste un barrio en apariencia amistoso y social, en el cual los niños caminan por ahí y la gente está hablando en la calle, con un lugar poco amistoso, cerrado y restringido en el que pocas personas están hablando y compartiendo sus vidas con los demás. El dinero no es el factor decisivo aquí: comunidades cerradas super caras por lo general tienen tan poca socialización como cuadras de torres muy pobres en el centro de la ciudad. Fundamentalmente, las dos tienen las mismas piezas centrales - casas, calles, carros, alumbrado público, residentes y así - pero el ambiente afecta grandemente la percepción. La percepción mental de un pintoresco pueblo rural adornado con sus pequeñas calles, tiendas de té y una abundante candidad de gente mayor jugando ajedres es muy diferente a esa de una cuadra del centro de la ciudad con sus edificios cuadrados, grandes portones y gente apurándose para ir a trabajar.
+Considere un ambiente convencional, como un barrio. Muchos atributos del ambiente pueden afectar la percepción, por ejemplo, de la sensación de seguridad. Ejemplos que afectan esa sensación incluyen el tamaño y el estilo de las casas, los tipos de carros en la calle, los residentes, lo que visten y su lenguaje corporal, la iluminación en las calles durante la noche, el ruido de fondo, la cantidad de tráfico, y más. Compare y contraste un barrio en apariencia amistoso y social, en el cual los niños caminan por ahí y la gente está hablando en la calle, con un lugar poco amistoso, cerrado y restringido en el que pocas personas están hablando y compartiendo sus vidas con los demás. El dinero no es el factor decisivo aquí: comunidades cerradas súper caras por lo general tienen tan poca socialización como cuadras de torres muy pobres en el centro de la ciudad. Fundamentalmente, las dos tienen las mismas piezas centrales - casas, calles, carros, alumbrado público, residentes y así - pero el ambiente afecta grandemente la percepción. La percepción mental de un pintoresco pueblo rural adornado con sus pequeñas calles, tiendas de té y una abundante cantidad de gente mayor jugando ajedrez es muy diferente a esa de una cuadra del centro de la ciudad con sus edificios cuadrados, grandes portones y gente apurándose para ir a trabajar.
 
 El ambiente no sólo afecta la percepción, sino también la oportunidad. En un barrio que se percibe como inseguro, es menos probable que los residentes interactúen entre ellos debido al miedo. En una comunidad que se siente segura y acogedora, prosperan los grupos locales, conversaciones ad hoc y otras interacciones. Estas consideraciones no sólo aplican a las comunidades geográficas, su ambiente en línea tiene la misma importancia.
+
+Agreguemos el ambiente a la lista, y hagamos una rápida recapitulación de nuestros asuntos principales hasta ahora.
+
+***
+
+** Lista de cosas por hacer para la Comunidad **
+
+* Identificar cómo podemos dividir la comunidad en equipos.
+* Asegurar que los equipos se pueden comunicar de forma clara y efectiva.
+* Atraer un rango diverso de contribuyentes a nuestra comunidad para que se involucren y contribuyan con nuestros objetivos.
+* Construir un ambiente que conduzca a nuestros objetivos más amplios.
+
+***
+
+### Equipos: los componentes básicos de la pertenencia
+
+Cada objetivo en nuestra lista de cosas por hacer es clave para una comunidad sólida, y aunque tal vez no se den cuenta, cada uno también tiene algo en común: *equipos*. Exploremos esto en más detalle.
+
+Los equipos son los componentes básicos de la estructura de la comunidad. Estos son los bloques de Lego que construyen un ejército de voluntarios unidos por una misión. Pero como componentes básicos, estos encajan en muchas formas diferentes, con incontables variaciones y posibilidades de cómo se construyen.
+
+Para que entendamos comunidad, necesitamos entender qué hace que los equipos funcionen. Ahora vamos a pasar un tiempo enfocándonos en los ingredientes esenciales que deberían estar presentes en todos lo equipos. Estos ingredientes son los elementos de las mejores prácticas que hacen equipos fuertes, acogedores y productivos. Exploraremos estos ingredientes fundacionales ahora, y más adelante en el capítulos vamos a determinar de cuáles equipos específicos constará nuestra comunidad.
+
+#### Encontrando su lugar
+
+Todo el mundo tiene sueños. Todos tenemos ambiciones y experiencias que codiciamos, y todos somos culpables de aprovechar la oportunidad de un día lluvioso para quedarnos mirando hacia la ventana y dejar que nuestras mentes nos lleven a esas grandiosas visiones, ya sea volar al espacio, hacer millones de dólares o tocar el bajo frente a miles de personas.
+
+Los sueños de Adam Sweet eran diferentes. El *había* tocado el bajo frente a miles de personas. Ese joven y fumador manojo de energía con pelo de picos reunió una banda con sus amigos y lograron obtener un contrato para una grabación a la tierna edad de 18 años. Conocidos como Passion Star, la banda tocó en Radio One Roadshow: una gira por todo Reino Unido compuesta por artistas establecidos y nuevo talento.
