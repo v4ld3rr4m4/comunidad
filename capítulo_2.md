@@ -222,6 +222,20 @@ Los equipos llenan un rol importante en una comunidad fuerte: son pequeños ecos
 
 #### Unidades de pertenencia
 
+Los equipos son las unidades de pertenencia. Los miembros se unen, se energizan con el espíritu del equipo, y desarrollan un sentimiento de pertenencia que los incita a contribuir de vuelta con el equipo. Esta filosofía de  «Círculo de vida» le brinda al equipo un consistente intercambio de experiencias y valor.
+
+Si abrimos un equipo podemos ver varias generaciones, como aros en la corteza de un árbol. Cada generación es una fuente de historias (ya establecidas en el capítulo anterior como una fuente importante de comunicación) y también una fuente de mentoría. Cada generación transmite historias, experiencias y lecciones de vida a la nueva generación.
+
+Esto es exactamente lo que pasó con Adam. Cuando se unió al grupo, necesitaba asistencia y soporte. Cuando recibió esta ayuda, el equipo le brindó un sentido de valor. Este valor inspiró a Adam a tratar al equipo con respeto y priorizar su importancia en su vida. Conforme el equipo abrió puertas de conocimiento, conexiones sociales se abrieron y él tuvo un sentimiento de pertenencia. Esta pertenencia se sellaba cada vez que impartía su propia experiencia a nuevos y existentes miembros del grupo. Él recibía la debida apreciación y agradecimientos que él entregó a otros cuando era nuevo.
+
+Parte de la razón por la que Adam tuvo una experiencia tan positiva fue que entendió la amplitud total del equipo. En cualquier agrupación humana natural, el *alcance* y la familiaridad del ambiente juegan un rol importante.
+
+El alcance define la amplitud y el alcance de algo. Es el tamaño de un libro, la capacidad de la sede de un festival, y la exhaustividad de un proyecto. El alcance describe la extensión de la pecera mental en la que estamos, ya sea un libro, una sede o una iniciativa. Un exemplo típico de alcance que es familiar para todos nostros es el lugar en el que vivimos.
+
+El mundo es un lugar bien grande. Su magnitud se refuerza por la televisión, sitios web, libros, historias y fotografías que vemos todos los días. Por miles de años, humanos y animales han desarrollado una tendencia natural de dividir el mundo en pedazos más manejables. La sociedad toma el mismo enfoque: países se dividen en estados y condados; estados y condados se dividen en ciudades, pueblos y villas; y ciudades, pueblos y villas se dividen en calles y, finalmente, casas.
+
+Las comunidades geográficas son semejants a las comunidades digitales: con ambas, nuestra percepción afecta nuestra confianza. Tomen el ejemplo de alguien que se traslada a una área completamente nueva. Para la mayoría de las personas que se han mudado recientemente, el ambiente es al inicio enormemente abrumador. Una vez que esta persona ha explorado la mayor parte de la ciudad, pueblo o villa, y conocido dónde quedan la tienda de comestibles, los hospitales y otros recursos principales, ella empieza a desarrollar un sentido de confianza. Entender el alcance del área nos da esta confianza.
+
 #### Leer versus escribir
 
 ##### Comunidades de mayoría de lectura
@@ -242,7 +256,7 @@ Los equipos llenan un rol importante en una comunidad fuerte: son pequeños ecos
 
 #### Construyendo un plan estratégico
 
-##### Estrucuturando el plan
+##### Estructurando el plan
 
 ### Rellenando el plan
 
