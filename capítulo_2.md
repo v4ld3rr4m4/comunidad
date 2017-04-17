@@ -263,7 +263,21 @@ Las comunidades vienen en muchas formas. Rodean libros, películas, productos de
 
 ##### Comunidades de mayoría de lectura
 
-Un gran ejemplo de esta pasión son los fanáticos de *Star Trek*. Yo no soy de ninguna manera un miembro de esa comunidad (y sólo tengo un conocimiento básico del programa), pero esta es claramente de gran alcance y mantiene una vasta membresía. Los *Trekkies*, como son conocidos, se reunen al rededor del mundo para discutir, debatir y consumir *Star Trek* en toda su salvaje y bastante rara gloria. Ah, y también visten disfraces bastante ridículos y en ocasiones extraños.
+Un gran ejemplo de esta pasión son los fanáticos de *Star Trek*. Yo no soy de ninguna manera un miembro de esa comunidad (y sólo tengo un conocimiento básico del programa), pero esta es claramente de gran alcance y mantiene una vasta membresía. Los *Trekkies*, como son conocidos, se reúnen al rededor del mundo para discutir, debatir y consumir *Star Trek* en toda su salvaje y bastante rara gloria. Ah, y también visten disfraces bastante ridículos y en ocasiones extraños.
+
+Podemos definir a los Trekkies como *fanáticos* - disfrutan un interés común, ya sea en línea o en convenciones al rededor del mundo, y su rol principal es compartir el consumo de ese interés con otros. Como fanáticos, los Trekkies en raras ocasiones tienen un impacto directo en el interés unificador: el Trekkie promedio no podría cambiar la historia del programa, contribuir con los disfraces o los efectos especiales, o mejorar lo que ya existe. En su lugar, la colaboración en el mundo Trekkie produce contenido para otros Trekkies: no le tomará mucho encontrar maravillosamente detallados disfraces, utilería, tatuajes, historias y otras creaciones hechas por fanáticos.
+
+Aunque parece haber una división colaborativa muy distintiva entre el proveedor (el programa) y el consumidor (el fanático), hay un punto intermedio. Estas comunidades se están volviendo cada vez más importantes para los proveedores y nunca antes los artistas, músicos, productores y políticos han estado tan conscientes de sus seguidores. Internet ha permitido que los fanáticos se conecten de forma más sencilla con su héroes, y esto ha desarrollado un tipo de colaboración.
+
+Hay muchos ejemplos de esto. Stephen Fry, un respetado actor británico, empezó a usar el servicio de microblogging Twitter y en unos meses ya tenía 400 000 personas siguiendo sus actualizaciones. La administración Obama ha hecho uso de blogs y YouTube de forma amplia para distribuir contenido e invitar a la retroalimentación.
+
+Un productor que se ha involucrado repetidamente con su comunidad de fanáticos es Joss Whedon, el estadounidense escritor, director y productor ejecutivo de *Buffy the Vampire Slayer* nominado a los Premios de la Academia y ganador del premio Hugo. Whedon ha sido conocido por usar varios medios en línea para interactuar con fanáticos y hasta ha referenciado contribuciones de fanáticos en su trabajo.
+
+Un ejemplo de estos fue la referencia en un episodio al «demonio Polgara». El nombre «Polgara» viene originalmente de libros escritos por el autor estadounidense David Eddings. La decisión de Whedon de usar l nombre fue inspirada por una fanática que escribía de forma regular en el foro oficial de *Buffy the Vampire Slayer* bajo ese mismo nombre. Whedon y el productor David Fury usaron ese nombre como un tributo a sus contribuciones regulares en la comunidad.
+
+Otro ejemplo del compromiso de Whedon con su comunidad flotó a la superficie durante una huelga de escritores. Él trabajo con otros escritores para escribir y producir *Dr. Horrible's Sing-Along Blog*, un musical corto de 45 minutos que fue publicado en Internet. Cada episodio del musical estaba en línea sólo por unos pocos días, y Whedon generaba interés dentro de la comunidad usando Twitter e interactuando con los fanáticos.
+
+Estos son ejemplos de construcción de comunidad en acción. Los productores estan uniendo grupos de gente interesada, brindando facilidades de comunicación, y motivando y posibilitando que esas personas colaboren. Incluso si la extensión de esa colaboración es un grupo de fanáticos brindando retroalimentación en un foro, la colaboración aún sucede.
 
 ##### Comunidades centradas en escritura
 
