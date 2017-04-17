@@ -230,15 +230,40 @@ Esto es exactamente lo que pasó con Adam. Cuando se unió al grupo, necesitaba 
 
 Parte de la razón por la que Adam tuvo una experiencia tan positiva fue que entendió la amplitud total del equipo. En cualquier agrupación humana natural, el *alcance* y la familiaridad del ambiente juegan un rol importante.
 
-El alcance define la amplitud y el alcance de algo. Es el tamaño de un libro, la capacidad de la sede de un festival, y la exhaustividad de un proyecto. El alcance describe la extensión de la pecera mental en la que estamos, ya sea un libro, una sede o una iniciativa. Un exemplo típico de alcance que es familiar para todos nostros es el lugar en el que vivimos.
+El alcance define la amplitud y el alcance de algo. Es el tamaño de un libro, la capacidad de la sede de un festival, y la exhaustividad de un proyecto. El alcance describe la extensión de la pecera mental en la que estamos, ya sea un libro, una sede o una iniciativa. Un ejemplo típico de alcance que es familiar para todos nosotros es el lugar en el que vivimos.
 
 El mundo es un lugar bien grande. Su magnitud se refuerza por la televisión, sitios web, libros, historias y fotografías que vemos todos los días. Por miles de años, humanos y animales han desarrollado una tendencia natural de dividir el mundo en pedazos más manejables. La sociedad toma el mismo enfoque: países se dividen en estados y condados; estados y condados se dividen en ciudades, pueblos y villas; y ciudades, pueblos y villas se dividen en calles y, finalmente, casas.
 
-Las comunidades geográficas son semejants a las comunidades digitales: con ambas, nuestra percepción afecta nuestra confianza. Tomen el ejemplo de alguien que se traslada a una área completamente nueva. Para la mayoría de las personas que se han mudado recientemente, el ambiente es al inicio enormemente abrumador. Una vez que esta persona ha explorado la mayor parte de la ciudad, pueblo o villa, y conocido dónde quedan la tienda de comestibles, los hospitales y otros recursos principales, ella empieza a desarrollar un sentido de confianza. Entender el alcance del área nos da esta confianza.
+Las comunidades geográficas son semejantes a las comunidades digitales: con ambas, nuestra percepción afecta nuestra confianza. Tomen el ejemplo de alguien que se traslada a una área completamente nueva. Para la mayoría de las personas que se han mudado recientemente, el ambiente es al inicio enormemente abrumador. Una vez que esta persona ha explorado la mayor parte de la ciudad, pueblo o villa, y conocido dónde quedan la tienda de comestibles, los hospitales y otros recursos principales, ella empieza a desarrollar un sentido de confianza. Entender el alcance del área nos da esta confianza.
+
+La razón de esto es que somos criados para tener precaución ante lo desconocido. Desafortunadamente, esto también nos vuelve temerosos. Cuando conocemos la extensión total de la pecera en la que vivimos, así como a los otros peces que están con nosotros, eso nos ayuda a construir un sentido medido de seguridad. Su sentido de alcance le hace sentir seguro cuando confirma que vive en una calle segura y no en el medio del hampa.
+
+El alcance de los nativos también afecta nuestra percepción. Contraste a alguien con pocos amigos y vecinos aparentemente extraños, con alguien que tiene muchos amigos y vecinos muy sociales. Cuando se empiezan a hacer conexiones personales recurrentes con amigos regulares, conocidos e intereses amorosos, un sentimiento de pertenencia comienza a fluir a través de las venas. Esto no es diferente en una pequeña comunidad en persona o en línea.
+
+Los equipos son enormemente valiosos al brindar un alcance manejable para sus nuevos contribuyentes. Si su comunidad tiene 1000 personas en un único equipo, su comunidad se puede sentir abrumadora. Si en lugar de eso está partida en 10 equipos, cada uno con 100 personas, y cada equipo enfocado en una área distinta, esto es mucho más accesible.
+
+Agreguemos esta premisa importante de la construcción de equipos a nuestra lista de cosas por hacer.
+
+***
+
+** Lista de cosas por hacer para la Comunidad **
+
+* Identificar cómo podemos dividir la comunidad en equipos.
+* Asegurar que los equipos se pueden comunicar de forma clara y efectiva.
+* Atraer un rango diverso de contribuyentes a nuestra comunidad para que se involucren y contribuyan con nuestros objetivos.
+* Construir un ambiente que conduzca a nuestros objetivos más amplios.
+* Definir el alcance de cada equipo, y ayudar a los miembros del equipo a entender este alcance.
+
+***
+
 
 #### Leer versus escribir
 
+Las comunidades vienen en muchas formas. Rodean libros, películas, productos de software, campañas políticas, esfuerzos de derechos civiles y más. En todas sus coloridas y variadas formas, todas las comunidades comparten una característica distintiva: la unidad de personas alrededor de una creencia o interés común. Es pasión lo que une a estas personas.
+
 ##### Comunidades de mayoría de lectura
+
+Un gran ejemplo de esta pasión son los fanáticos de *Star Trek*. Yo no soy de ninguna manera un miembro de esa comunidad (y sólo tengo un conocimiento básico del programa), pero esta es claramente de gran alcance y mantiene una vasta membresía. Los *Trekkies*, como son conocidos, se reunen al rededor del mundo para discutir, debatir y consumir *Star Trek* en toda su salvaje y bastante rara gloria. Ah, y también visten disfraces bastante ridículos y en ocasiones extraños.
 
 ##### Comunidades centradas en escritura
 
