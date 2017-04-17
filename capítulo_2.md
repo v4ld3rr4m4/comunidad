@@ -214,8 +214,70 @@ Cuando Adam se unió por primera vez al grupo, preguntó un bombardeo de pregunt
 
 Conforme construyó su confianza, él empezó a experimentar. El grupo se había vuelto un excelente lugar para que la gente donara equipo viejo. Adam tomaba este interminable flujo de aparatos viejos, probaba nuevos programas y compartía sus experiencias con el resto del grupo. Con forme nuevos miembros se unían y preguntaban cosas, él les respondía y compartía sus experiencias. Rápidamente se estaba convirtiendo en una especie de experto en Linux.
 
-Él continuó jugando, creciendo, estudiando en la universidad y, prontó, encontró un trabajo como administrador de sistemas. Poco después conoció a su novia, Jenny, y se mudaron a su propia casa. Adam había logrado lo que quería: normalidad, un sentido de seguridad y una pasión.
+Él continuó jugando, creciendo, estudiando en la universidad y, pronto, encontró un trabajo como administrador de sistemas. Poco después conoció a su novia, Jenny, y se mudaron a su propia casa. Adam había logrado lo que quería: normalidad, un sentido de seguridad y una pasión.
 
 Lo que encuentro tan entrañable sobre la historia de Adam es que un grupo de usuarios de Linux (un equipo dentro de la comunidad general de Linux) haya contribuido tan decisivamente con sus ambiciones. Si Adam no se hubiera unido a un equipo, ya sea mi GUL o cualquier otro grupo, no estoy seguro de que la historia hubiese tenido el mismo final.
 
 Los equipos llenan un rol importante en una comunidad fuerte: son pequeños ecosistemas con atributos que pueden ser enormemente valiosos para el éxito de su comunidad a una escala más amplia. Una vez que hemos visto estos atributos a un alto nivel, podemos usar este conocimiento para construir nuestra estrategia práctica de implementación más adelante en este capítulo.
+
+#### Unidades de pertenencia
+
+#### Leer versus escribir
+
+##### Comunidades de mayoría de lectura
+
+##### Comunidades centradas en escritura
+
+#### Meritocracia
+
+#### Trabajar juntos es el éxito
+
+#### Diversidad
+
+### Diseñando su comunidad
+
+#### Incluyendo la apertura
+
+#### Construyendo una declaración de misión
+
+#### Construyendo un plan estratégico
+
+##### Estrucuturando el plan
+
+### Rellenando el plan
+
+#### Haciendo una lluvia de ideas
+
+##### Técnica 1: poner en duda las suposiciones
+
+##### Técnica 2: pensar fuera de la caja
+
+##### Técnica 3: hagamos que apeste
+
+### Juntando los hilos
+
+#### Equipos: divide y vencerás
+
+##### Identificar cómo se puede dividir su comunidad en equipos
+
+##### Definir el alcance de cada equipo, y ayudar a los miembros de los equipos a entender ese alcance
+
+##### Entender la extensión y el rango de la colaboración entre nuestro equipos
+
+##### Asegurar que los equipos se puedan comunicar de forma clara y efectiva
+
+### Documentando su estrategia
+
+### Soportando financieramente su comunidad
+
+#### Oportunidades de ganancias
+
+##### Publicidad en línea
+
+##### Ventas
+
+##### Donaciones
+
+##### Patrocinios
+
+### Terminando
