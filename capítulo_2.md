@@ -203,3 +203,19 @@ Para que entendamos comunidad, necesitamos entender qué hace que los equipos fu
 Todo el mundo tiene sueños. Todos tenemos ambiciones y experiencias que codiciamos, y todos somos culpables de aprovechar la oportunidad de un día lluvioso para quedarnos mirando hacia la ventana y dejar que nuestras mentes nos lleven a esas grandiosas visiones, ya sea volar al espacio, hacer millones de dólares o tocar el bajo frente a miles de personas.
 
 Los sueños de Adam Sweet eran diferentes. El *había* tocado el bajo frente a miles de personas. Ese joven y fumador manojo de energía con pelo de picos reunió una banda con sus amigos y lograron obtener un contrato para una grabación a la tierna edad de 18 años. Conocidos como Passion Star, la banda tocó en Radio One Roadshow: una gira por todo Reino Unido compuesta por artistas establecidos y nuevo talento.
+
+Aunque sonaba divertido, Adam había tenido suficiente. Él quería normalidad. Él quería una casa, una novia, una vida regular, no una vida en un pequeño bus con cuatro musos con problemas de higiene. Pero Adam aún quería una pasión (sin ser una estrella). Él necesitaba un interés para envolver su sentido natural de curiosidad y exploración. Entonces, compró una computadora.
+
+Aún cuando era el año 2000 y él tenía 24 años, les podría sorprender que Adam nunca había tenido una computadora antes. De inmediato perplejo con su nueva amiga, compró una revista para entenderla mejor, y resulta que dicha revista presentaba al sistema operativo Linux en la portada. No sabiendo nada mejor, él saltó a instalarlo. Por supuesto, fue un desastre épico, como lo era Linux por lo general en aquel momento. Mientras trataba de encontrar ayuda, Adam se topó con su primera comunidad, la cual también servía como un equipo: mi grupo de usuarios de Linux.
+
+Cuando Adam entró, se enfrentó a los mismos miedos, incertidumbres y curiosidades que yo compartí al inicio del libro. Sin embargo, estaba de igual forma inspirado e intrigado por el concepto de la comunidad. Aunque se sintió raro, también se sintió obligado a quedarse.
+
+Cuando Adam se unió por primera vez al grupo, preguntó un bombardeo de preguntas, con frecuencia disculpándose cuando sentía que eran «estúpidas» a pesar de las garantías de que no habían preguntas estúpidas.
+
+Conforme construyó su confianza, él empezó a experimentar. El grupo se había vuelto un excelente lugar para que la gente donara equipo viejo. Adam tomaba este interminable flujo de aparatos viejos, probaba nuevos programas y compartía sus experiencias con el resto del grupo. Con forme nuevos miembros se unían y preguntaban cosas, él les respondía y compartía sus experiencias. Rápidamente se estaba convirtiendo en una especie de experto en Linux.
+
+Él continuó jugando, creciendo, estudiando en la universidad y, prontó, encontró un trabajo como administrador de sistemas. Poco después conoció a su novia, Jenny, y se mudaron a su propia casa. Adam había logrado lo que quería: normalidad, un sentido de seguridad y una pasión.
+
+Lo que encuentro tan entrañable sobre la historia de Adam es que un grupo de usuarios de Linux (un equipo dentro de la comunidad general de Linux) haya contribuido tan decisivamente con sus ambiciones. Si Adam no se hubiera unido a un equipo, ya sea mi GUL o cualquier otro grupo, no estoy seguro de que la historia hubiese tenido el mismo final.
+
+Los equipos llenan un rol importante en una comunidad fuerte: son pequeños ecosistemas con atributos que pueden ser enormemente valiosos para el éxito de su comunidad a una escala más amplia. Una vez que hemos visto estos atributos a un alto nivel, podemos usar este conocimiento para construir nuestra estrategia práctica de implementación más adelante en este capítulo.
