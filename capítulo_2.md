@@ -261,7 +261,7 @@ Agreguemos esta premisa importante de la construcción de equipos a nuestra list
 
 Las comunidades vienen en muchas formas. Rodean libros, películas, productos de software, campañas políticas, esfuerzos de derechos civiles y más. En todas sus coloridas y variadas formas, todas las comunidades comparten una característica distintiva: la unidad de personas alrededor de una creencia o interés común. Es pasión lo que une a estas personas.
 
-##### Comunidades de mayoría de lectura
+##### Comunidades de lectura, en su mayoría
 
 Un gran ejemplo de esta pasión son los fanáticos de *Star Trek*. Yo no soy de ninguna manera un miembro de esa comunidad (y sólo tengo un conocimiento básico del programa), pero esta es claramente de gran alcance y mantiene una vasta membresía. Los *Trekkies*, como son conocidos, se reúnen al rededor del mundo para discutir, debatir y consumir *Star Trek* en toda su salvaje y bastante rara gloria. Ah, y también visten disfraces bastante ridículos y en ocasiones extraños.
 
@@ -277,9 +277,25 @@ Un ejemplo de estos fue la referencia en un episodio al «demonio Polgara». El 
 
 Otro ejemplo del compromiso de Whedon con su comunidad flotó a la superficie durante una huelga de escritores. Él trabajo con otros escritores para escribir y producir *Dr. Horrible's Sing-Along Blog*, un musical corto de 45 minutos que fue publicado en Internet. Cada episodio del musical estaba en línea sólo por unos pocos días, y Whedon generaba interés dentro de la comunidad usando Twitter e interactuando con los fanáticos.
 
-Estos son ejemplos de construcción de comunidad en acción. Los productores estan uniendo grupos de gente interesada, brindando facilidades de comunicación, y motivando y posibilitando que esas personas colaboren. Incluso si la extensión de esa colaboración es un grupo de fanáticos brindando retroalimentación en un foro, la colaboración aún sucede.
+Estos son ejemplos de construcción de comunidad en acción. Los productores están uniendo grupos de gente interesada, brindando facilidades de comunicación, y motivando y posibilitando que esas personas colaboren. Incluso si la extensión de esa colaboración es un grupo de fanáticos brindando retroalimentación en un foro, la colaboración aún sucede.
+
+Así es como la mayoría de las comunidades funcionan. La colaboración es un subproducto no oficial, y aunque pueda no cambiar o mejorar la creación del productor, aún es probable que ofrezca valor real. El enfoque principal de estas comunidades están en asegurar que la comunidad (a) siempre tenga acceso al producto y (b) pueda comunicarse sobre este con otros. La base de estos tipos de comunidades está en el *acceso*.
+
+Aunque cada comunidad tenga la característica de gente reunida alrededor de una creencia o interés compartido, el impacto real de la comunidad en esta creencia o interés compartido varía grandemente.
 
 ##### Comunidades centradas en escritura
+
+Para algunas comunidades, la colaboración va mucho más lejos. Se convierte en algo más profundo, más intrínseco y más accesible para todos. En lugar de simplemente *disfrutar haciendo cosas juntos*, la colaboración va tan lejos como ayudar a las personas a *crear cosas juntas*. En estos ambientes, la comunidad también asume el rol de productor del contenido.
+
+El ejemplo típico aquí es una de las muchas comunidades de Cultura Libre, así como Linux, Wikipedia, OpenStreetMap, Creative Commons, etcétera. En estas comunidades, los miembros de la comunidad tienen la oportunidad de cambiar el mismo contenido que los une.
+
+La comunidad de Ubuntu es un ejemplo de esto. Ubuntu es un sistema operativo de Linux completamente libre, que es diseñado para brindar un sistema completo, gratuito, estable y seguro para computadoras de escritorio, servidores o dispositivos móviles. Ubuntu está construido usando cientos de piezas de Software Libre preexistente, a las que nos referimos como aplicaciones *«upstream»*. Cada aplicación «upstream» tiene su propia comunidad de voluntarios y desarrolladores. Ubuntu en sí mismo tiene una comunidad de voluntarios y desarrolladores que toman dichos programas «upstream» y lo ensamblan en un sistema fácil de instalar y fácil de usar.
+
+Ubuntu ha engendrado una comunidad enorme. Más de 200 grupos de usuarios de Ubuntu, conocidos como Ubuntu LoCo teams, se han formado alrededor del mundo. Casi todos los paises tienen un LoCo team, con un rango de usuarios desde expertos de Linux hasta usuarios completamente nuevos. Estas personas son, en una palabra, *asombrosas*. (Tal vez estoy un poco sesgado...)
+
+Cualquier persona en la comunidad de Ubuntu puede afectar lo que aparece en Ubuntu mismo. Cada parte del sistema está abierta a contribuciones. Esto incluye los programas en el disco, la documentación y recursos de soporte, arte y diseño, reportes de errores, y casi cualquier otra cosa. Cada uno tiene la oportunidad, a través de trabajo duro y mérito, de hacer contribuciones positivas al sistema de Ubuntu alrededor del cual se reune la comunidad.
+
+Entender cómo nuestras comunidades colaboran es importante para entender qué queremos lograr y qué es posible. Agreguemos esto a nuestra lista de cosas por hacer.
 
 #### Meritocracia
 
