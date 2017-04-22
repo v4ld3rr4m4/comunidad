@@ -256,7 +256,6 @@ Agreguemos esta premisa importante de la construcción de equipos a nuestra list
 
 ***
 
-
 #### Leer versus escribir
 
 Las comunidades vienen en muchas formas. Rodean libros, películas, productos de software, campañas políticas, esfuerzos de derechos civiles y más. En todas sus coloridas y variadas formas, todas las comunidades comparten una característica distintiva: la unidad de personas alrededor de una creencia o interés común. Es pasión lo que une a estas personas.
@@ -297,7 +296,32 @@ Cualquier persona en la comunidad de Ubuntu puede afectar lo que aparece en Ubun
 
 Entender cómo nuestras comunidades colaboran es importante para entender qué queremos lograr y qué es posible. Agreguemos esto a nuestra lista de cosas por hacer.
 
+***
+
+** Lista de cosas por hacer para la Comunidad **
+
+* Identificar cómo podemos dividir la comunidad en equipos.
+* Asegurar que los equipos se pueden comunicar de forma clara y efectiva.
+* Atraer un rango diverso de contribuyentes a nuestra comunidad para que se involucren y contribuyan con nuestros objetivos.
+* Construir un ambiente que conduzca a nuestros objetivos más amplios.
+* Definir el alcance de cada equipo, y ayudar a los miembros del equipo a entender este alcance.
+* Entender la extensión y el rango de la colaboración entre nuestros equipos.
+
+***
+
 #### Meritocracia
+
+Antes de continuar construyendo los planos para nuestra comunidad, quiero tomar unos minutos para divagar y hablar sobre un atributo social interesante que aplica a muchas comunidades (aunque no a todas): *meritocracia*.
+
+Una meritocracia es un sistema de gobernancia en el cual a sus miembros se les dan responsabilidades y reconocimientos basados en logros, mérito y talento. Aquellas personas que son parte de una meritocracia (así como en la comunidad de Ubuntu y otras comunidades de código abierto) pueden hacer tremendos avances sobre respeto y responsabilidad simplemente haciendo un buen trabajo. En estas comunidades, el dinero, la clase y las conexiones familiares tiene poco o ningún impacto en la habilidad de progresar y construir una reputación.
+
+La magia de las meritocracias es que presentan igualdad de condiciones para *todo el mundo*. Aquellas personas que trabajan duro y muestran un compromiso recurrente en la comunidad son premiadas. Aquellas que piensan que conducir un carro con una luz de neón azul abajo nos va a impresionar se van a decepcionar.
+
+Pocas personas discutirían que una meritocracia es algo malo. Su base fundamental está en recompensar el trabajo duro. Este concepto se asocia en gran medida con las lecciones generales de vida con las que todas las personas somos criadas: trabajo duro y cosechar los premios de sus esfuerzos.
+
+En estas meritocracias colaborativas, nuestro objetivo principal es asegurar que los canales de comunicación y contribución son abiertos, bien definidos y que sean respetados. Estas comunidades son complejas: hay muchos aspectos diferentes que afectan qué tan sencillo es involucrarse y colaborar.
+
+Aunque las meritocracias representen el mejor ejemplo de lo que muchas personas consideran estupendas comunidades, *no* son un requerimiento. Algunas comunidades distinguen absolutamente entre sus miembros basándose en quienes son, de dónde vienen y otros atributos. Esto ha sido aplicable en particular a comunidades orientadas a los negocios que mantienen una clara jerarquía y miembros que no son considerados como iguales de ninguna forma.
 
 #### Trabajar juntos es el éxito
 
