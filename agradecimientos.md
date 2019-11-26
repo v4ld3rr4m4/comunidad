@@ -9,3 +9,5 @@ También quiero dar mi mayor agradecimiento y gratitud a Andi Oram de O'Reilly p
 Por último, muchas gracias a todos los que han apoyado mi trabajo y el libro en http://www.artofcommunityonline.org/ y http://www.jonobacon.org/, y a las cientos de personas que han difundido la palabra a través de sus blogs, podcasts, canales de Twitter/identi.ca, Facebook y otras partes. ¡Aprecio cada onza de su apoyo!
 
 Muy bien, suficiente hablada. Empecemos...
+
+prueba al final del file
