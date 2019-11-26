@@ -21,3 +21,6 @@ Locutor y Fundador de red TWiT
 Petaluma, California
 
 30 de junio de 2009
+
+
+visto en nov. 2019
